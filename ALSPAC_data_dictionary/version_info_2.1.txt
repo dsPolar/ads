@@ -1,0 +1,186 @@
+ALSPAC DATA DICTIONARY VERSION UPDATES
+######################################
+
+VERSION 1.1 23rd January 2017
+
+YPA and YPB questionnaires added.
+
+
+VERSION 1.2 14th July 2017
+
+TF4_3a	Added in new data - arteries session
+f08_3c	Added in new data - lung function
+D2104_F09	Updated documentation to include DXA variables
+
+VERSION 1.3 27TH sEPTEMBER 2017
+
+D2109_TF3   Additional 'sleep questionnaire' variables included in data file
+D1427_YPC   Me@23+/YPC Questionnaire added
+
+VERSION 1.4 11TH MAY 2018
+
+child_metabolomics_1b	D5704_cMetabolomics	Updating particle concentration units on some variable names
+f08_3c	D2103_F08	Added new data - Raw lung function data (also removed previous derived lung function data)
+FOM1_2a	D2201_FOM1	Added new data - DXA data, full ALSPAC sample included, other minor changes
+FOM2_3a	D2202_FOM2	Added new data - pQCT and DXA data
+FOM3_1d	D2203_FOM3	First version of release file (even though is version 1d, 1a through 1c were for internal purposes only)
+FOM4_1d	D2204_FOM4	First version of release file (even though is version 1d, 1a through 1c were for internal purposes only)
+FOF1_2a	D2301_FOF1	Added new data - DXA 
+f07_4a	D2102_F07	data added - nutrition, Developmental Coordination Disorder.
+f08_4a	D2103_F08	data added - speech and lang, lung function.
+f09_4a	D2104_F09	data added - DXA, lung function, scoliosis, fitness, dyslexia, oae.
+f10_5a	D2105_F10	data added - nutrition, arteries data, balance, activity diary.
+f11_5a	D2106_F11	data added - vision, hearing, DXA, new accelerometer data. 
+Child_bloods_r3a	Added new data - infection/virus assays 5/7/11/5 yrs, previously embargoed samples (cord samples, thyroid function, B12, and others)
+FOM4_2a	D2204_FOM4	Added new data - carotid Intima-Media Thickness. Documentation for FOM1, 2 and 3 also updated to reflect that FOM4 cIMT data is now available
+Father_metabolomics_1a	New data - Fathers who attended FOF clinic mum_metabolomics_2a	D5705_mMetabolomics	New data - FOM2 metabolomics addeD
+J file			Mothers New Questionnaire data added - strength and difficulties quest, estimated nutrient intake and dietary pattern scores.
+
+
+VERSION 1.5 21ST SEPTEMBER 2018
+
+CCT_1b	D1423_CCT	corrected issues with raw score derivation for SF36
+T_1b	D1118_T		corrected issues with raw score derivation for SF36
+T_1c	D1118_T		corrected issues with raw score derivation for SF36, added maternal BMI and t9985
+n_r1b	D1113_N		SDQ and age of mother at completion
+h_6d	D1108_H		Quest completion year and age of mother at completion, derived var methods for h340 to h343
+ta_2a	D1321_TA	SDQ and dietary pattern scores
+tc_2a	D1323_TC	SDQ added
+tf1_3a	D2107_TF1	Retinal scan data, PLIKS interview derivatives, BMI derivative, 1990 British Growth Reference derivatives, labels updated.
+tf2_3a	D2108_TF2	Activity data, nutrition, dietary diary, DXA, MFQ, 'Big 5' factor markers, BMI, 1990 British Growth Reference derivatives.
+tf3_3a	D2109_TF3	DXA scans, DXA scoliosis, pQCT scans, activity, faceshape and derivatives, BMI, 1990 British Growth Reference derivatives.
+tf4_4a	D2111_TF4	GRACE (Heart) substudy, Elba (blood pressure substudy), PLIKS derivatives, AUDIT (Alcohol) derivatives, 1990 British Growth Reference derivatives
+kq_3a	D1314_KQ	Added nutrition and SDQ data
+kr_2a	D1315_KR	Added DAWBA, ADHD and OCD data, missing Q ages year.
+kv_2a	D1319_KV	Added DAWBA, ADHD and OCD data.
+Mother_samples_r3a	D5702_mSamples	Lots of new samples added and dataset restructured to include mult_mums and non-Core mothers (plus some other minor tweaks)
+FA_1b	D1801_FA1	Minor update to match up one case, mult_dad variable updated to match FOF
+tb_2a	D1322_TB	Added DAWBA, ADHD and OCD data.
+YPD_1a	D1428_YPD	Life @ 24 Questionnaire - NEW DATA
+F24_1a	D2100_F24	First version of the Focus @ 24 release file - NEW DATA
+
+
+Version 1.6 9th November 2018
+
+Father_samples_2a	D5703_fsamples	Insulin and proinsulin assay data added to release file
+tf3_4a	D2109_TF3	DAWBA added
+cif_8a	D2101_CIF	SD scores for height, weight and BMI, nutrition added, mean biceps skinfold recalculated
+a_3d	D1101_A		Addition of year of completion
+b_4e	D1103_B		Added weighted index score of leisure-time physical activity
+c_8a	D1104_C		Derived dietary pattern scores, vitamins and minerals during pregnancy, age in years at completion
+d_3d	D1102_D		A16a coded text data, completion dates and age at completion
+e_4e	D1105_E		Age at completion added
+g_5c	D1107_G		Age at completion added
+m_2a	D1112_M		State - Trait Anxiety Inventory score added
+n_3a	D1113_N		State - Trait Anxiety Inventory score added
+pa_4a	D1201_PA	Speech therapist var added, month of completion
+pb_4a	D1202_PB	Date of completion added 
+kf_8a	D1306_KF	Denver variables added
+
+version 1.7 9th November 2018
+
+F24_2a	D2100_F24	DXA data added, plus blood eligibility variables updated. 
+F11_5b	D2106_F11	Update hand grip variable labels (left and right were the wrong way round)
+Mother_samples_r3b	D5702_mSamples	Updated heavy metal samples variable names (to avoid confusion for DBs) and updated units for these variables 
+kt_2a	D1317_KT	Addition of Nutrient Intake derived vars and Dietary Pattern scores derived from Principal Component Analysis.
+kc_6a	D1303_KC	Addition of Derived Variables MacArthur CDI:
+kk_3a	D1309_KK	Addition of nutrient intake derived vars, Dietary Pattern scores derived from PCA and year of completion.
+ke_6a	D1305_KE	Addition of Derived Variables MacArthur CDI, dietary pattern scores, year of completion
+pe_4a	D1205_PE	Age in years of father at completion added.
+pg_2a	D1207_PG	Addition of estimated daily nutrient intakes, Dietary Pattern scores derived from PCA
+	D1417_CCM	Minor change to documentation only to reference TA file.
+	D1416_CCL	Error corrected in name of documentation.
+YPE	D1429_YPE	Life @ 25+ Questionnaire (Sections A/D(partial)/L/M only - remainder under exclusive access until Dec 2019
+FOM1_3a	D2201_FOM1	new derived medications text data
+FOM2_4a	D2202_FOM2	new derived medications text data
+FOM3_2a	D2203_FOM3	new derived medications text data
+FOM4_3a	D2204_FOM4	new derived medications text data
+CCXD	D1454_CCXD	new derived variable ccxd918 MFQ - potential participant fatique
+
+version 1.8 20th March 2019
+
+F24_3a	D2100_F24	New data added: Raw CIS-R data, chlamydia screening programme, accelerometer data, alcohol/AUDIT questionnaire, smoking/fagerstrom questionnaire, cannabis/CAST questionnaire, CIS-R derived diagnoses, PLIKS data, source monitoring cognitive task, Eprime computerised cognitive tasks (emotion recognition, N-back task, and stop-signal task), predictive processing cognitive task. Medications text data processed (although not held on release file), consent issues updated, plus other minor changes in meta-data.
+
+TF3_4b			D2109_TF3		Updating the WASI section (vars fh6130 to fh6282) - Note that if a respondent omitted any of the WASI questions this is flagged in variable fh6282. Variable fh6281 (Total IQ score with imputed cases dropped) has been removed from this release file as no WASI data was imputed in the re-processed data. Variable labels for fh3012, fh3013, fh3014 and fh3019 have also been updated.
+
+TF4_4a 			D2111_TF4		No update to the release file/version number, but have updated a copy of the TF4 documentation to correct for the variable names given in the AUDIT score (page 287) and added a note in the appendix (page 455) saying that the question numbers given below may not match the numbers given in the variable labels.
+
+Child_bloods_4a		D5701_csamples		Assays from the F@24 clinic have been added, including: full blood count (white blood cell count, haemoglobin, platelet count, etc.); insulin; glucose; C-reactive protein; cholesterol (inc. cholesterol, triglycerides, HDL, LDL and vLDL); liver function (GGT, ALT and AST); P3NP; and hyaluronic acid. Placenta information and details of genetics data available for YPs has also been added. Note some F@24 cases missing due to consent issues.
+
+child_metabolomics_2a	D5704_cMetabolomics	F@24 metabolomics data added. Sphingomyelin data from F7, TF3 and TF4 clinics have also been added. Some variable labels also updated. Note some F@24 cases missing due to consent issues.
+
+Mother_samples_4a	D5702_mSamples		Cotinine data obtained from pregnancy urine samples (trimesters 1 and 3) added to file. Note that a variable regarding cotinine urine assays from trimester 1 previously existed in the release file (cotinine_preg). As the new cotinine variables were obtained from the same project, but contain additional information regarding first, second and average samples results, plus gestational age at time of sample, this old variable has been removed from the release file. Details of genetics data available for mothers have also been added.
+
+mum_metabolomics_3a	D5705_mMetabolomics	Sphingomyelin data for FOM1 and FOM2 have been added to file. Some variable labels have also been updated.
+
+Father_samples_3a	D5703_fsamples		Details of genetics data available for fathers have been added.
+
+version 1.9 13th June 2019
+
+YPC_2a	D1427_YPC	Derived occupational class data and well-being measures have been added.
+d_4b	D1102_D		Derived text data regarding 'details of treatment to help conceive' has been added
+ccxd_2a	D1454_CCXD	new derived variable ccxd918 MFQ - potential participant fatique - NOTE: Variable catalogue and documentation updated in data dictionary version 1.7, but file ccxd_2a not added to R\Data at same time
+kb_7a	D1302_KB	Addition of Denver variables
+kd_5a	D1304_KD	Addition of Denver variables
+kl_2a	D1310_KL	Addition of EAS derived variables
+kn_2a	D1312_KN	Addition of EAS derived variables
+kg_5a	D1307_KG	Addition of derived variables for nutriant intake, dietary pattern scores using PCA, MacArthur CDI, coded text data for QI11f and I12ii to kg913 and kg916.
+a_3e	D1101_A		Variable a201 removed
+b_4e	D1103_B		Variables b672 and b686 removed
+pb_4b	D1202_PB	Variable PB080 removed
+e_4f	D1105_E		Variable e180 removed
+f07_4b	D2102_F07	String vars (which were times) have been split into hours and minutes, and the string vars dropped. Var labels and missing values updated for var f7ws003.
+f08_4b	D2103_F08	String vars (which were times) have been split into hours and minutes, and the string vars dropped - Some missing values in the 'locus of control' and 'bullying/friends and schools' sessions have also been updated (but data not been affected)
+f09_4b	D2104_F09	String and dates vars (which were times) have been split into hours and minutes, and the string/date vars dropped
+f11_5c	D2106_F11	Date vars (which were times) have been split into hours and minutes, and the date vars dropped - Mean BP and pulse variables (fesa021, fesa022 and fesa023) have also been recalculated due to previous coding error
+tf1_3b	D2107_TF1	Date vars (which were times) have been split into hours and minutes, and the date vars dropped
+f10_5b	D2105_F10	Correcting some missing value labels in the ‘autorefraction’ session. Variables affected are: fdms151, fdms161, fdms166, fdms167, fdms171, fdms172, fdms181 and fdms182. Also updated missing values for var fdsm132.
+tf3_4c	D2109_TF3	Date vars (which were times) have been split into hours and minutes (or minutes and seconds), and the date vars dropped
+tf4_4b	D2111_TF4	Missing value codes updated for several variables - Some variables in the alcohol session (FJAL150, FJAL200, FJAL250, FJAL300, FJAL400, FJAL450, FJAL500 and FJAL550) have been recoded. Many pQCT variables also had missing data issues (e.g., either '0' coded as a missing value, or some valid 			negative values incorrectly coded as missing), which have now been updated (see documentation for more details)
+sabc_1e	D1604_SABC	Date/time variables dropped from the release file (were already split into hours and mins, so no new vars created)
+sefg_1c	D1609_SEFG	Date/time variables dropped from the release file (were already split into hours and mins, so no new vars created)
+OB_1b	D4201_OB	Missing value codes updated for several variables, most do not impact the data, but DEL_P1330 has been recoded
+OC_1c	D4202_OC	Missing value codes updated for several variables, including recoding of vars: DEL_B4000, DEL_B4001, DEL_B4019, DEL_B4100, DEL_B4150, DEL_B4400 and DEL_B4462
+pub1_3c	D1501_PUB1	Missing value codes updated for several variables, including recoding of vars: pub130, pub135, pub150 and pub155
+pub2_2c	D1502_PUB2	Missing value codes updated for several variables, including recoding of vars: pub230, pub235, pub250 and pub255
+cif_8a	D2101_CIF	Updating missing values for vars: cf042a, cf048a, cf424 and cf465.
+
+version 2.0 22nd July 2019
+
+Child_bloods_4b	D5701_csamples	F7 fatty acid data labels updated for clarity - Variable 'tn6ratio_F7' also renamed to 'tn6_hufa_F7'. No changes made to data
+ccxf_1b		D1456_CCXF	Value labels for vars ccxf2000 to ccxf2004 been corrected (i.e., now 1=yes and 2=no - previously 1=no and 2=yes)
+f07_5a		D2102_F07	Height, weight and BMI z-scores from growth charts added to file. Also added reduced rank regression diet variables.
+f08_4c		D2103_F08	Height, weight and BMI z-scores from growth charts added to file (BMI DV also added to file).
+f09_4c		D2104_F09	Height, weight and BMI z-scores from growth charts added to file.
+f10_6a		D2105_F10	Height, weight and BMI z-scores from growth charts added to file. Also added reduced rank regression diet variables.
+F11_5d		D2106_F11	Height, weight and BMI z-scores from growth charts added to file.
+Child_bloods_4c	D5701_csamples	Updating the TF4 vLDL variable
+F24_4a		D2100_F24	Releasing liver scan data and Hughes data (Echo (except 3D echo scans), cIMT, PWV, SphygmoCor, and step/grip exercise session). Also included additional questionnaire data from ~90 pps who attended the shortened two-hour clinic
+ccxf_1b		D1456_CCXF	Value labels for vars ccxf3004, ccxf4000, ccxf5000, ccxf6000, ccxf6002, ccxf6004, ccxf6005, ccxf6007, ccxf6009, ccxf6011, ccxf6013, ccxf6015, ccxf6017, ccxf6018 and ccxf6020 been corrected (i.e., now 1=yes and 2=no - previously 1=no and 2=yes)
+
+
+version 2.1 7th January 2020
+
+YPC			D1427_YPC		Minor update in the documentation regarding the 'Life Orientation Test-Revised' scale (page 118) - Updated variable names in title as were incorrect previosuly
+v_1a			D1167_V			Your Life in 2013 Mothers Questionnaire
+ph_1c			D1208_PH		Minor changes to missing values 
+XB_2a			D1151_XB		Addition of month/year of completion, and mother/yp age at completion 
+PC_3a			D1203_PC		Age at completion added and minor corrections
+KA_5a			D1301_KA		Minor changes to documentation and data labels.  Addition of Dietary pattern scores.
+tf2_4a			D2108_TF2		Addition of dietary pattern variables
+KJ_7a			D1308_KJ		Additon of denver variables and laterality variables.  Removal of incorrect variables.
+T_2a			D1118_T			Added in vars for quest a37a-a37j, maternal age at completion and label corrections
+Child_bloods_4d		D5701_csamples		Updated units in variable labels for some variables
+child_metabolomics_3a	D5704_cMetabolomics	Added metabolomics from Before Breakfast Study (pre and post-glucose)
+Mother_samples_5a	D5702_mSamples		Several new samples added from FOM1/2/3/4 clinics (inc. TF4, insulin, NT-ProBNP, TPO, TSH, troponin, parathyroid hormone and vitamin D-T)
+kz_5c			D4101_KZ		Deleting 'kz021' and 'kz011b' from the KZ file (as are now in the cohort profile datatset)
+FOF1_3a			D2301_FOF1		Adding faceshape coordinate data
+kk_3b			D1309_KK		Updating value labels of variable KK252
+sh_1c			D1610_SH		Renaming 'y6sch' and 'y6year' variables to 'y6sch_sh' and 'y6year_sh'
+sefg_1d			D1609_SEFG		Renaming 'y6sch' and 'y6year' variables to 'y6sch_sefg' and 'y6year_sefg'
+YPF			D1430_YPF		Life@26+ questionnaire
+
+
+
+Any queries please contact alspac-data@bristol.ac.uk
+

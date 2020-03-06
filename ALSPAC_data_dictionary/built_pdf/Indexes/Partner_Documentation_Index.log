@@ -1,0 +1,678 @@
+25/01/2010 12:33:27 : Starting build.
+25/01/2010 12:33:27 : Searching : R:\data\documentation\built_pdf\partner\
+25/01/2010 12:33:28 : Indexing 17 files
+25/01/2010 12:33:28 : Extracting : R:\data\documentation\built_pdf\partner\pa.pdf
+25/01/2010 12:33:38 : Extracting : R:\data\documentation\built_pdf\partner\PAW.pdf
+25/01/2010 12:33:38 : Extracting : R:\data\documentation\built_pdf\partner\pb.pdf
+25/01/2010 12:33:48 : Extracting : R:\data\documentation\built_pdf\partner\pc.pdf
+25/01/2010 12:33:53 : Extracting : R:\data\documentation\built_pdf\partner\pd.pdf
+25/01/2010 12:33:57 : Extracting : R:\data\documentation\built_pdf\partner\pe.pdf
+25/01/2010 12:34:01 : Extracting : R:\data\documentation\built_pdf\partner\PF.pdf
+25/01/2010 12:34:07 : Extracting : R:\data\documentation\built_pdf\partner\pg.pdf
+25/01/2010 12:34:14 : Extracting : R:\data\documentation\built_pdf\partner\ph.pdf
+25/01/2010 12:34:20 : Extracting : R:\data\documentation\built_pdf\partner\pj.pdf
+25/01/2010 12:34:26 : Extracting : R:\data\documentation\built_pdf\partner\pk.pdf
+25/01/2010 12:34:36 : Extracting : R:\data\documentation\built_pdf\partner\pl.pdf
+25/01/2010 12:34:46 : Extracting : R:\data\documentation\built_pdf\partner\pm.pdf
+25/01/2010 12:34:53 : Extracting : R:\data\documentation\built_pdf\partner\pn.pdf
+25/01/2010 12:34:58 : Extracting : R:\data\documentation\built_pdf\partner\pp.pdf
+25/01/2010 12:35:08 : Extracting : R:\data\documentation\built_pdf\partner\pq.pdf
+25/01/2010 12:35:18 : Extracting : R:\data\documentation\built_pdf\partner\PXA.pdf
+25/01/2010 12:35:24 : Creating Index
+25/01/2010 12:35:37 :   Total PDF files in all directories : 17
+25/01/2010 12:35:37 :   Total new files : 17
+25/01/2010 12:35:37 :   Total pages indexed : 3241
+25/01/2010 12:35:37 :   Total number of files skipped : 0
+25/01/2010 12:35:37 :   Total deleted files : 0
+25/01/2010 12:35:37 : Index build successful.
+
+12/02/2010 14:03:21 : Starting build.
+12/02/2010 14:03:21 : Searching : R:\data\documentation\built_pdf\Quest\Partner\
+12/02/2010 14:03:21 : Indexing 16 files
+12/02/2010 14:03:21 : Deleting 17 files
+12/02/2010 14:03:21 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1201_PA.pdf
+12/02/2010 14:03:32 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1202_PB.pdf
+12/02/2010 14:03:42 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1203_PC.pdf
+12/02/2010 14:03:47 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1204_PD.pdf
+12/02/2010 14:03:52 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1205_PE.pdf
+12/02/2010 14:03:56 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1206_PF.pdf
+12/02/2010 14:04:02 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1207_PG.pdf
+12/02/2010 14:04:10 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1208_PH.pdf
+12/02/2010 14:04:16 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1209_PJ.pdf
+12/02/2010 14:04:22 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1210_PK.pdf
+12/02/2010 14:04:33 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1211_PL.pdf
+12/02/2010 14:04:43 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1212_PM.pdf
+12/02/2010 14:04:51 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1213_PN.pdf
+12/02/2010 14:04:55 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1214_PP.pdf
+12/02/2010 14:05:06 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1215_PQ.pdf
+12/02/2010 14:05:16 : Extracting : R:\data\documentation\built_pdf\Quest\Partner\D1250_PXA.pdf
+12/02/2010 14:05:22 : Creating Index
+12/02/2010 14:05:35 :   Total PDF files in all directories : 16
+12/02/2010 14:05:35 :   Total new files : 16
+12/02/2010 14:05:35 :   Total pages indexed : 3224
+12/02/2010 14:05:35 :   Total number of files skipped : 0
+12/02/2010 14:05:35 :   Total deleted files : 17
+12/02/2010 14:05:35 : Index build successful.
+
+26/03/2012 14:51:33 : Starting rebuild of Index : R:\Data\documentation\Indexes\Partner_Documentation_Index.pdx
+26/03/2012 14:51:33 : Deleting files from current index
+26/03/2012 14:51:33 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index.idx
+26/03/2012 14:51:33 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index1.idx
+26/03/2012 14:51:33 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index2.idx
+26/03/2012 14:51:34 : Searching : R:\Data\documentation\built_pdf\Quest\Partner\
+26/03/2012 14:51:35 : Indexing 16 files
+26/03/2012 14:51:35 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1201_PA.pdf
+26/03/2012 14:51:41 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1202_PB.pdf
+26/03/2012 14:51:46 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1203_PC.pdf
+26/03/2012 14:51:48 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1204_PD.pdf
+26/03/2012 14:51:49 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1205_PE.pdf
+26/03/2012 14:51:51 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1206_PF.pdf
+26/03/2012 14:51:54 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1207_PG.pdf
+26/03/2012 14:51:57 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1208_PH.pdf
+26/03/2012 14:52:00 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1209_PJ.pdf
+26/03/2012 14:52:04 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1210_PK.pdf
+26/03/2012 14:52:10 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1211_PL.pdf
+26/03/2012 14:52:17 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1212_PM.pdf
+26/03/2012 14:52:21 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1213_PN.pdf
+26/03/2012 14:52:24 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1214_PP.pdf
+26/03/2012 14:52:29 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1215_PQ.pdf
+26/03/2012 14:52:35 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1250_PXA.pdf
+26/03/2012 14:52:38 : Creating Index
+26/03/2012 14:52:46 :   Total PDF files in all directories : 16
+26/03/2012 14:52:46 :   Total PDF attachments : 0
+26/03/2012 14:52:46 :   Total new files : 16
+26/03/2012 14:52:46 :   Total pages indexed : 3224
+26/03/2012 14:52:46 :   Total number of files skipped : 0
+26/03/2012 14:52:46 :   Total deleted files : 0
+26/03/2012 14:52:46 : Index build successful.
+
+19/10/2012 15:56:32 : Starting rebuild of Index : R:\Data\documentation\Indexes\Partner_Documentation_Index.pdx
+19/10/2012 15:56:32 : Deleting files from current index
+19/10/2012 15:56:32 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index.idx
+19/10/2012 15:56:32 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index1.idx
+19/10/2012 15:56:32 : Searching : R:\Data\documentation\built_pdf\Quest\Partner\
+19/10/2012 15:56:34 : Indexing 16 files
+19/10/2012 15:56:34 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1201_PA.pdf
+19/10/2012 15:56:37 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1202_PB.pdf
+19/10/2012 15:56:41 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1203_PC.pdf
+19/10/2012 15:56:43 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1204_PD.pdf
+19/10/2012 15:56:44 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1205_PE.pdf
+19/10/2012 15:56:45 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1206_PF.pdf
+19/10/2012 15:56:48 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1207_PG.pdf
+19/10/2012 15:56:51 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1208_PH.pdf
+19/10/2012 15:56:53 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1209_PJ.pdf
+19/10/2012 15:56:56 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1210_PK.pdf
+19/10/2012 15:57:00 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1211_PL.pdf
+19/10/2012 15:57:04 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1212_PM.pdf
+19/10/2012 15:57:07 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1213_PN.pdf
+19/10/2012 15:57:09 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1214_PP.pdf
+19/10/2012 15:57:13 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1215_PQ.pdf
+19/10/2012 15:57:17 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1250_PXA.pdf
+19/10/2012 15:57:19 : Creating Index
+19/10/2012 15:57:26 :   Total PDF files in all directories : 16
+19/10/2012 15:57:26 :   Total PDF attachments : 0
+19/10/2012 15:57:26 :   Total new files : 16
+19/10/2012 15:57:26 :   Total pages indexed : 3224
+19/10/2012 15:57:26 :   Total number of files skipped : 0
+19/10/2012 15:57:26 :   Total deleted files : 0
+19/10/2012 15:57:26 : Index build successful.
+
+26/02/2014 14:25:31 : Starting rebuild of Index : R:\Data\documentation\Indexes\Partner_Documentation_Index.pdx
+26/02/2014 14:25:31 : Deleting files from current index
+26/02/2014 14:25:31 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index.idx
+26/02/2014 14:25:31 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index1.idx
+26/02/2014 14:25:31 : Searching : R:\Data\documentation\built_pdf\Quest\Partner\
+26/02/2014 14:25:33 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+26/02/2014 14:25:34 : Indexing 19 files
+26/02/2014 14:25:34 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1201_PA.pdf
+26/02/2014 14:25:38 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1202_PB.pdf
+26/02/2014 14:25:41 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1203_PC.pdf
+26/02/2014 14:25:43 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1204_PD.pdf
+26/02/2014 14:25:44 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1205_PE.pdf
+26/02/2014 14:25:45 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1206_PF.pdf
+26/02/2014 14:25:48 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1207_PG.pdf
+26/02/2014 14:25:51 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1208_PH.pdf
+26/02/2014 14:25:54 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1209_PJ.pdf
+26/02/2014 14:25:56 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1210_PK.pdf
+26/02/2014 14:26:01 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1211_PL.pdf
+26/02/2014 14:26:05 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1212_PM.pdf
+26/02/2014 14:26:08 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1213_PN.pdf
+26/02/2014 14:26:10 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1214_PP.pdf
+26/02/2014 14:26:15 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1215_PQ.pdf
+26/02/2014 14:26:19 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1250_PXA.pdf
+26/02/2014 14:26:22 : Extracting : R:\Data\documentation\built_pdf\Clinic\Adult\D2110_TF3A.pdf
+26/02/2014 14:26:23 : Extracting : R:\Data\documentation\built_pdf\Clinic\Adult\D2201_FOM1.pdf
+26/02/2014 14:26:23 : Extracting : R:\Data\documentation\built_pdf\Clinic\Adult\D2301_FOF1.pdf
+26/02/2014 14:26:25 : Creating Index
+26/02/2014 14:26:37 :   Total PDF files in all directories : 19
+26/02/2014 14:26:37 :   Total PDF attachments : 0
+26/02/2014 14:26:37 :   Total new files : 19
+26/02/2014 14:26:37 :   Total pages indexed : 3374
+26/02/2014 14:26:37 :   Total number of files skipped : 0
+26/02/2014 14:26:37 :   Total deleted files : 0
+26/02/2014 14:26:37 : Index build successful.
+
+18/05/2014 16:22:49 : Starting rebuild of Index : R:\Data\documentation\Indexes\Partner_Documentation_Index.pdx
+18/05/2014 16:22:49 : Deleting files from current index
+18/05/2014 16:22:49 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index.idx
+18/05/2014 16:22:49 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index1.idx
+18/05/2014 16:22:49 : Searching : R:\Data\documentation\built_pdf\Quest\Partner\
+18/05/2014 16:22:51 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+18/05/2014 16:22:52 : Indexing 19 files
+18/05/2014 16:22:52 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1201_PA.pdf
+18/05/2014 16:22:56 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1202_PB.pdf
+18/05/2014 16:23:00 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1203_PC.pdf
+18/05/2014 16:23:01 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1204_PD.pdf
+18/05/2014 16:23:03 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1205_PE.pdf
+18/05/2014 16:23:04 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1206_PF.pdf
+18/05/2014 16:23:07 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1207_PG.pdf
+18/05/2014 16:23:10 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1208_PH.pdf
+18/05/2014 16:23:13 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1209_PJ.pdf
+18/05/2014 16:23:16 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1210_PK.pdf
+18/05/2014 16:23:21 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1211_PL.pdf
+18/05/2014 16:23:25 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1212_PM.pdf
+18/05/2014 16:23:29 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1213_PN.pdf
+18/05/2014 16:23:31 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1214_PP.pdf
+18/05/2014 16:23:35 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1215_PQ.pdf
+18/05/2014 16:23:40 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1250_PXA.pdf
+18/05/2014 16:23:42 : Extracting : R:\Data\documentation\built_pdf\Clinic\Adult\D2110_TF3A.pdf
+18/05/2014 16:23:44 : Extracting : R:\Data\documentation\built_pdf\Clinic\Adult\D2201_FOM1.pdf
+18/05/2014 16:23:44 : Extracting : R:\Data\documentation\built_pdf\Clinic\Adult\D2301_FOF1.pdf
+18/05/2014 16:23:46 : Creating Index
+18/05/2014 16:23:54 :   Total PDF files in all directories : 19
+18/05/2014 16:23:54 :   Total PDF attachments : 0
+18/05/2014 16:23:54 :   Total new files : 19
+18/05/2014 16:23:54 :   Total pages indexed : 3374
+18/05/2014 16:23:54 :   Total number of files skipped : 0
+18/05/2014 16:23:54 :   Total deleted files : 0
+18/05/2014 16:23:54 : Index build successful.
+
+18/05/2014 16:45:10 : Starting rebuild of Index : R:\Data\documentation\Indexes\Partner_Documentation_Index.pdx
+18/05/2014 16:45:10 : Deleting files from current index
+18/05/2014 16:45:10 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index.idx
+18/05/2014 16:45:10 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index1.idx
+18/05/2014 16:45:10 : Searching : R:\Data\documentation\built_pdf\Quest\Partner\
+18/05/2014 16:45:12 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+18/05/2014 16:45:12 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+18/05/2014 16:45:12 : Searching : R:\Data\documentation\built_pdf\Clinic\Partner\
+18/05/2014 16:45:12 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Partner\
+18/05/2014 16:45:12 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+18/05/2014 16:45:12 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+18/05/2014 16:45:12 : Indexing 20 files
+18/05/2014 16:45:12 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1201_PA.pdf
+18/05/2014 16:45:16 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1202_PB.pdf
+18/05/2014 16:45:20 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1203_PC.pdf
+18/05/2014 16:45:22 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1204_PD.pdf
+18/05/2014 16:45:24 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1205_PE.pdf
+18/05/2014 16:45:25 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1206_PF.pdf
+18/05/2014 16:45:28 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1207_PG.pdf
+18/05/2014 16:45:31 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1208_PH.pdf
+18/05/2014 16:45:34 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1209_PJ.pdf
+18/05/2014 16:45:37 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1210_PK.pdf
+18/05/2014 16:45:43 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1211_PL.pdf
+18/05/2014 16:45:47 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1212_PM.pdf
+18/05/2014 16:45:51 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1213_PN.pdf
+18/05/2014 16:45:53 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1214_PP.pdf
+18/05/2014 16:45:58 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1215_PQ.pdf
+18/05/2014 16:46:02 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1250_PXA.pdf
+18/05/2014 16:46:05 : Extracting : R:\Data\documentation\built_pdf\Clinic\Partner\D2301_FOF1.pdf
+18/05/2014 16:46:07 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\Father_sample_v1.pdf
+18/05/2014 16:46:07 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+18/05/2014 16:46:07 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+18/05/2014 16:46:07 : Creating Index
+18/05/2014 16:46:17 :   Total PDF files in all directories : 20
+18/05/2014 16:46:17 :   Total PDF attachments : 0
+18/05/2014 16:46:17 :   Total new files : 20
+18/05/2014 16:46:17 :   Total pages indexed : 3291
+18/05/2014 16:46:17 :   Total number of files skipped : 0
+18/05/2014 16:46:17 :   Total deleted files : 0
+18/05/2014 16:46:17 : Index build successful.
+
+21/03/2015 16:29:02 : Starting build of Index : R:\Data\documentation\Indexes\Partner_Documentation_Index.pdx
+21/03/2015 16:29:03 : Searching : R:\Data\documentation\built_pdf\Quest\Partner\
+21/03/2015 16:29:05 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+21/03/2015 16:29:05 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+21/03/2015 16:29:05 : Searching : R:\Data\documentation\built_pdf\Clinic\Partner\
+21/03/2015 16:29:05 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Partner\
+21/03/2015 16:29:05 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+21/03/2015 16:29:05 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+21/03/2015 16:29:06 : Indexing 3 files
+21/03/2015 16:29:06 : Deleting 2 files
+21/03/2015 16:29:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1801_FA1.pdf
+21/03/2015 16:29:17 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5703_fsamples.pdf
+21/03/2015 16:29:17 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+21/03/2015 16:29:17 : Creating Index
+21/03/2015 16:29:18 :   Total PDF files in all directories : 21
+21/03/2015 16:29:18 :   Total PDF attachments : 0
+21/03/2015 16:29:18 :   Total new files : 3
+21/03/2015 16:29:18 :   Total pages indexed : 202
+21/03/2015 16:29:18 :   Total number of files skipped : 0
+21/03/2015 16:29:18 :   Total deleted files : 2
+21/03/2015 16:29:18 : Index build successful.
+
+03/04/2017 14:55:17 : Starting rebuild of Index : R:\Data\documentation\Indexes\Partner_Documentation_Index.pdx
+03/04/2017 14:55:18 : Deleting files from current index
+03/04/2017 14:55:18 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index.idx
+03/04/2017 14:55:18 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index1.idx
+03/04/2017 14:55:18 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index2.idx
+03/04/2017 14:55:18 : Searching : R:\Data\documentation\built_pdf\Quest\Partner\
+03/04/2017 14:55:19 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+03/04/2017 14:55:19 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+03/04/2017 14:55:19 : Searching : R:\Data\documentation\built_pdf\Clinic\Partner\
+03/04/2017 14:55:19 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Partner\
+03/04/2017 14:55:19 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+03/04/2017 14:55:20 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+03/04/2017 14:55:20 : Searching : R:\Data\documentation\built_pdf\Quest\Father\
+03/04/2017 14:55:20 : Indexing 21 files
+03/04/2017 14:55:20 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1201_PA.pdf
+03/04/2017 14:55:23 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1202_PB.pdf
+03/04/2017 14:55:26 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1203_PC.pdf
+03/04/2017 14:55:27 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1204_PD.pdf
+03/04/2017 14:55:28 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1205_PE.pdf
+03/04/2017 14:55:30 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1206_PF.pdf
+03/04/2017 14:55:32 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1207_PG.pdf
+03/04/2017 14:55:34 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1208_PH.pdf
+03/04/2017 14:55:36 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1209_PJ.pdf
+03/04/2017 14:55:38 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1210_PK.pdf
+03/04/2017 14:55:42 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1211_PL.pdf
+03/04/2017 14:55:45 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1212_PM.pdf
+03/04/2017 14:55:48 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1213_PN.pdf
+03/04/2017 14:55:49 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1214_PP.pdf
+03/04/2017 14:55:53 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1215_PQ.pdf
+03/04/2017 14:55:56 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1250_PXA.pdf
+03/04/2017 14:55:58 : Extracting : R:\Data\documentation\built_pdf\Clinic\Partner\D2301_FOF1.pdf
+03/04/2017 14:55:59 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5703_fsamples.pdf
+03/04/2017 14:55:59 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+03/04/2017 14:56:00 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+03/04/2017 14:56:00 : Extracting : R:\Data\documentation\built_pdf\Quest\Father\D1801_FA1.pdf
+03/04/2017 14:56:08 : Creating Index
+03/04/2017 14:56:16 :   Total PDF files in all directories : 21
+03/04/2017 14:56:16 :   Total PDF attachments : 0
+03/04/2017 14:56:16 :   Total new files : 21
+03/04/2017 14:56:16 :   Total pages indexed : 3477
+03/04/2017 14:56:16 :   Total number of files skipped : 0
+03/04/2017 14:56:16 :   Total deleted files : 0
+03/04/2017 14:56:16 : Index build successful.
+
+27/11/2017 14:11:44 : Starting rebuild of Index : R:\Data\documentation\Indexes\Partner_Documentation_Index.pdx
+27/11/2017 14:11:44 : Deleting files from current index
+27/11/2017 14:11:44 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index.idx
+27/11/2017 14:11:44 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index1.idx
+27/11/2017 14:11:44 : Searching : R:\Data\documentation\built_pdf\Quest\Partner\
+27/11/2017 14:11:46 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+27/11/2017 14:11:46 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+27/11/2017 14:11:46 : Searching : R:\Data\documentation\built_pdf\Clinic\Partner\
+27/11/2017 14:11:46 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Partner\
+27/11/2017 14:11:46 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+27/11/2017 14:11:46 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+27/11/2017 14:11:46 : Searching : R:\Data\documentation\built_pdf\Quest\Father\
+27/11/2017 14:11:47 : Indexing 21 files
+27/11/2017 14:11:47 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1202_PB.pdf
+27/11/2017 14:11:49 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1209_PJ.pdf
+27/11/2017 14:11:51 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1210_PK.pdf
+27/11/2017 14:11:55 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1208_PH.pdf
+27/11/2017 14:11:56 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1214_PP.pdf
+27/11/2017 14:12:00 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1211_PL.pdf
+27/11/2017 14:12:03 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1213_PN.pdf
+27/11/2017 14:12:04 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1207_PG.pdf
+27/11/2017 14:12:07 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1212_PM.pdf
+27/11/2017 14:12:09 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1201_PA.pdf
+27/11/2017 14:12:12 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1204_PD.pdf
+27/11/2017 14:12:13 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1215_PQ.pdf
+27/11/2017 14:12:16 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1205_PE.pdf
+27/11/2017 14:12:17 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1206_PF.pdf
+27/11/2017 14:12:19 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1250_PXA.pdf
+27/11/2017 14:12:21 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1203_PC.pdf
+27/11/2017 14:12:22 : Extracting : R:\Data\documentation\built_pdf\Clinic\Partner\D2301_FOF1.pdf
+27/11/2017 14:12:23 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5703_fsamples.pdf
+27/11/2017 14:12:23 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+27/11/2017 14:12:23 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+27/11/2017 14:12:24 : Extracting : R:\Data\documentation\built_pdf\Quest\Father\D1801_FA1.pdf
+27/11/2017 14:12:31 : Creating Index
+27/11/2017 14:12:36 :   Total PDF files in all directories : 21
+27/11/2017 14:12:36 :   Total PDF attachments : 0
+27/11/2017 14:12:36 :   Total new files : 21
+27/11/2017 14:12:36 :   Total pages indexed : 3477
+27/11/2017 14:12:36 :   Total number of files skipped : 0
+27/11/2017 14:12:36 :   Total deleted files : 0
+27/11/2017 14:12:36 : Index build successful.
+
+02/05/2018 12:07:59 : Starting rebuild of Index : R:\Data\documentation\Indexes\Partner_Documentation_Index.pdx
+02/05/2018 12:07:59 : Deleting files from current index
+02/05/2018 12:07:59 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index.idx
+02/05/2018 12:07:59 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index1.idx
+02/05/2018 12:07:59 : Searching : R:\Data\documentation\built_pdf\Quest\Partner\
+02/05/2018 12:08:01 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+02/05/2018 12:08:01 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+02/05/2018 12:08:01 : Searching : R:\Data\documentation\built_pdf\Clinic\Partner\
+02/05/2018 12:08:01 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Partner\
+02/05/2018 12:08:01 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+02/05/2018 12:08:01 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+02/05/2018 12:08:01 : Searching : R:\Data\documentation\built_pdf\Quest\Father\
+02/05/2018 12:08:01 : Indexing 22 files
+02/05/2018 12:08:01 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1202_PB.pdf
+02/05/2018 12:08:04 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1209_PJ.pdf
+02/05/2018 12:08:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1210_PK.pdf
+02/05/2018 12:08:10 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1208_PH.pdf
+02/05/2018 12:08:12 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1214_PP.pdf
+02/05/2018 12:08:16 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1211_PL.pdf
+02/05/2018 12:08:19 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1213_PN.pdf
+02/05/2018 12:08:20 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1207_PG.pdf
+02/05/2018 12:08:23 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1212_PM.pdf
+02/05/2018 12:08:25 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1201_PA.pdf
+02/05/2018 12:08:28 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1204_PD.pdf
+02/05/2018 12:08:29 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1215_PQ.pdf
+02/05/2018 12:08:33 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1205_PE.pdf
+02/05/2018 12:08:34 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1206_PF.pdf
+02/05/2018 12:08:36 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1250_PXA.pdf
+02/05/2018 12:08:38 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1203_PC.pdf
+02/05/2018 12:08:40 : Extracting : R:\Data\documentation\built_pdf\Clinic\Partner\D2301_FOF1.pdf
+02/05/2018 12:08:41 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5700_fMetabolomics.pdf
+02/05/2018 12:08:42 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5703_fsamples.pdf
+02/05/2018 12:08:42 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+02/05/2018 12:08:42 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+02/05/2018 12:08:42 : Extracting : R:\Data\documentation\built_pdf\Quest\Father\D1801_FA1.pdf
+02/05/2018 12:08:50 : Creating Index
+02/05/2018 12:08:54 :   Total PDF files in all directories : 22
+02/05/2018 12:08:54 :   Total PDF attachments : 0
+02/05/2018 12:08:54 :   Total new files : 22
+02/05/2018 12:08:54 :   Total pages indexed : 3503
+02/05/2018 12:08:54 :   Total number of files skipped : 0
+02/05/2018 12:08:54 :   Total deleted files : 0
+02/05/2018 12:08:54 : Index build successful.
+
+10/05/2018 17:06:51 : Starting rebuild of Index : R:\Data\documentation\Indexes\Partner_Documentation_Index.pdx
+10/05/2018 17:06:51 : Deleting files from current index
+10/05/2018 17:06:51 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index.idx
+10/05/2018 17:06:51 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index1.idx
+10/05/2018 17:06:51 : Searching : R:\Data\documentation\built_pdf\Quest\Partner\
+10/05/2018 17:06:52 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+10/05/2018 17:06:52 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+10/05/2018 17:06:52 : Searching : R:\Data\documentation\built_pdf\Clinic\Partner\
+10/05/2018 17:06:52 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Partner\
+10/05/2018 17:06:52 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+10/05/2018 17:06:52 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+10/05/2018 17:06:52 : Searching : R:\Data\documentation\built_pdf\Quest\Father\
+10/05/2018 17:06:53 : Indexing 22 files
+10/05/2018 17:06:53 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1202_PB.pdf
+10/05/2018 17:06:55 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1209_PJ.pdf
+10/05/2018 17:06:57 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1210_PK.pdf
+10/05/2018 17:07:00 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1208_PH.pdf
+10/05/2018 17:07:02 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1214_PP.pdf
+10/05/2018 17:07:05 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1211_PL.pdf
+10/05/2018 17:07:08 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1213_PN.pdf
+10/05/2018 17:07:09 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1207_PG.pdf
+10/05/2018 17:07:11 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1212_PM.pdf
+10/05/2018 17:07:13 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1201_PA.pdf
+10/05/2018 17:07:16 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1204_PD.pdf
+10/05/2018 17:07:17 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1215_PQ.pdf
+10/05/2018 17:07:20 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1205_PE.pdf
+10/05/2018 17:07:21 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1206_PF.pdf
+10/05/2018 17:07:23 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1250_PXA.pdf
+10/05/2018 17:07:25 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1203_PC.pdf
+10/05/2018 17:07:26 : Extracting : R:\Data\documentation\built_pdf\Clinic\Partner\D2301_FOF1.pdf
+10/05/2018 17:07:27 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5700_fMetabolomics.pdf
+10/05/2018 17:07:28 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5703_fsamples.pdf
+10/05/2018 17:07:28 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+10/05/2018 17:07:28 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+10/05/2018 17:07:28 : Extracting : R:\Data\documentation\built_pdf\Quest\Father\D1801_FA1.pdf
+10/05/2018 17:07:36 : Creating Index
+10/05/2018 17:07:40 :   Total PDF files in all directories : 22
+10/05/2018 17:07:40 :   Total PDF attachments : 0
+10/05/2018 17:07:40 :   Total new files : 22
+10/05/2018 17:07:40 :   Total pages indexed : 3503
+10/05/2018 17:07:40 :   Total number of files skipped : 0
+10/05/2018 17:07:40 :   Total deleted files : 0
+10/05/2018 17:07:40 : Index build successful.
+
+10/05/2018 17:34:20 : Starting rebuild of Index : R:\Data\documentation\Indexes\Partner_Documentation_Index.pdx
+10/05/2018 17:34:20 : Deleting files from current index
+10/05/2018 17:34:20 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index.idx
+10/05/2018 17:34:20 : Deleting : R:\Data\documentation\Indexes\Partner_Documentation_Index\index1.idx
+10/05/2018 17:34:20 : Searching : R:\Data\documentation\built_pdf\Quest\Partner\
+10/05/2018 17:34:21 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+10/05/2018 17:34:21 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+10/05/2018 17:34:21 : Searching : R:\Data\documentation\built_pdf\Clinic\Partner\
+10/05/2018 17:34:21 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Partner\
+10/05/2018 17:34:21 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+10/05/2018 17:34:21 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+10/05/2018 17:34:21 : Searching : R:\Data\documentation\built_pdf\Quest\Father\
+10/05/2018 17:34:21 : Indexing 22 files
+10/05/2018 17:34:21 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1202_PB.pdf
+10/05/2018 17:34:24 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1209_PJ.pdf
+10/05/2018 17:34:26 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1210_PK.pdf
+10/05/2018 17:34:30 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1208_PH.pdf
+10/05/2018 17:34:31 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1214_PP.pdf
+10/05/2018 17:34:35 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1211_PL.pdf
+10/05/2018 17:34:38 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1213_PN.pdf
+10/05/2018 17:34:39 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1207_PG.pdf
+10/05/2018 17:34:41 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1212_PM.pdf
+10/05/2018 17:34:44 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1201_PA.pdf
+10/05/2018 17:34:47 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1204_PD.pdf
+10/05/2018 17:34:48 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1215_PQ.pdf
+10/05/2018 17:34:51 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1205_PE.pdf
+10/05/2018 17:34:52 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1206_PF.pdf
+10/05/2018 17:34:54 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1250_PXA.pdf
+10/05/2018 17:34:56 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1203_PC.pdf
+10/05/2018 17:34:57 : Extracting : R:\Data\documentation\built_pdf\Clinic\Partner\D2301_FOF1.pdf
+10/05/2018 17:34:59 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5700_fMetabolomics.pdf
+10/05/2018 17:34:59 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5703_fsamples.pdf
+10/05/2018 17:34:59 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+10/05/2018 17:34:59 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+10/05/2018 17:35:00 : Extracting : R:\Data\documentation\built_pdf\Quest\Father\D1801_FA1.pdf
+10/05/2018 17:35:08 : Creating Index
+10/05/2018 17:35:12 :   Total PDF files in all directories : 22
+10/05/2018 17:35:12 :   Total PDF attachments : 0
+10/05/2018 17:35:12 :   Total new files : 22
+10/05/2018 17:35:12 :   Total pages indexed : 3503
+10/05/2018 17:35:12 :   Total number of files skipped : 0
+10/05/2018 17:35:12 :   Total deleted files : 0
+10/05/2018 17:35:12 : Index build successful.
+
+09/11/2018 14:44:25 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Partner_Documentation_Index.pdx
+09/11/2018 14:44:25 : Deleting files from current index
+09/11/2018 14:44:25 : Deleting : R:\Data\documentation\built_pdf\Indexes\Partner_Documentation_Index\index.idx
+09/11/2018 14:44:25 : Deleting : R:\Data\documentation\built_pdf\Indexes\Partner_Documentation_Index\index1.idx
+09/11/2018 14:44:25 : Searching : R:\Data\documentation\built_pdf\built_pdf\Quest\Partner\
+09/11/2018 14:44:25 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Quest\Partner\
+09/11/2018 14:44:25 : Searching : R:\Data\documentation\built_pdf\built_pdf\Clinic\Adult\
+09/11/2018 14:44:25 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Clinic\Adult\
+09/11/2018 14:44:25 : Searching : R:\Data\documentation\built_pdf\built_pdf\Clinic\Partner\
+09/11/2018 14:44:25 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Clinic\Partner\
+09/11/2018 14:44:25 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Samples\Partner\
+09/11/2018 14:44:25 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Samples\Partner\
+09/11/2018 14:44:25 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Social_Class\
+09/11/2018 14:44:25 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Social_Class\
+09/11/2018 14:44:25 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Address\
+09/11/2018 14:44:25 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Address\
+09/11/2018 14:44:25 : Searching : R:\Data\documentation\built_pdf\built_pdf\Quest\Father\
+09/11/2018 14:44:25 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Quest\Father\
+09/11/2018 14:44:25 : No new or changed files found
+09/11/2018 14:44:25 :   Total PDF files in all directories : 0
+09/11/2018 14:44:25 :   Total PDF attachments : 0
+09/11/2018 14:44:25 :   Total new files : 0
+09/11/2018 14:44:25 :   Total pages indexed : 0
+09/11/2018 14:44:25 :   Total number of files skipped : 0
+09/11/2018 14:44:25 :   Total deleted files : 0
+09/11/2018 14:44:25 : Index build successful.
+
+12/11/2018 08:59:13 : Starting build of Index : R:\Data\documentation\built_pdf\Indexes\Partner_Documentation_Index.pdx
+12/11/2018 08:59:13 : Searching : R:\Data\documentation\built_pdf\built_pdf\Quest\Partner\
+12/11/2018 08:59:13 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Quest\Partner\
+12/11/2018 08:59:13 : Searching : R:\Data\documentation\built_pdf\built_pdf\Clinic\Adult\
+12/11/2018 08:59:13 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Clinic\Adult\
+12/11/2018 08:59:13 : Searching : R:\Data\documentation\built_pdf\built_pdf\Clinic\Partner\
+12/11/2018 08:59:13 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Clinic\Partner\
+12/11/2018 08:59:13 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Samples\Partner\
+12/11/2018 08:59:13 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Samples\Partner\
+12/11/2018 08:59:13 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Social_Class\
+12/11/2018 08:59:13 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Social_Class\
+12/11/2018 08:59:13 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Address\
+12/11/2018 08:59:13 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Address\
+12/11/2018 08:59:13 : Searching : R:\Data\documentation\built_pdf\built_pdf\Quest\Father\
+12/11/2018 08:59:13 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Quest\Father\
+12/11/2018 08:59:13 : No new or changed files found
+12/11/2018 08:59:13 :   Total PDF files in all directories : 0
+12/11/2018 08:59:13 :   Total PDF attachments : 0
+12/11/2018 08:59:13 :   Total new files : 0
+12/11/2018 08:59:13 :   Total pages indexed : 0
+12/11/2018 08:59:13 :   Total number of files skipped : 0
+12/11/2018 08:59:13 :   Total deleted files : 0
+12/11/2018 08:59:13 : Index build successful.
+
+12/11/2018 10:00:27 : Starting build of Index : R:\Data\documentation\built_pdf\Indexes\Partner_Documentation_Index.pdx
+12/11/2018 10:00:28 : Searching : R:\Data\documentation\built_pdf\Clinic\Partner\
+12/11/2018 10:00:28 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Partner\
+12/11/2018 10:00:28 : Searching : R:\Data\documentation\built_pdf\Quest\Partner\
+12/11/2018 10:00:29 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+12/11/2018 10:00:29 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+12/11/2018 10:00:29 : Indexing 21 files
+12/11/2018 10:00:29 : Extracting : R:\Data\documentation\built_pdf\Clinic\Partner\D2301_FOF1.pdf
+12/11/2018 10:00:31 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5700_fMetabolomics.pdf
+12/11/2018 10:00:31 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5703_fsamples.pdf
+12/11/2018 10:00:31 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1202_PB.pdf
+12/11/2018 10:00:36 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1209_PJ.pdf
+12/11/2018 10:00:38 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1210_PK.pdf
+12/11/2018 10:00:42 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1208_PH.pdf
+12/11/2018 10:00:43 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1214_PP.pdf
+12/11/2018 10:00:47 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1211_PL.pdf
+12/11/2018 10:00:51 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1213_PN.pdf
+12/11/2018 10:00:52 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1207_PG.pdf
+12/11/2018 10:00:54 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1212_PM.pdf
+12/11/2018 10:00:57 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1201_PA.pdf
+12/11/2018 10:01:01 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1204_PD.pdf
+12/11/2018 10:01:02 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1215_PQ.pdf
+12/11/2018 10:01:05 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1205_PE.pdf
+12/11/2018 10:01:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1206_PF.pdf
+12/11/2018 10:01:08 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1250_PXA.pdf
+12/11/2018 10:01:10 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1203_PC.pdf
+12/11/2018 10:01:11 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+12/11/2018 10:01:11 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+12/11/2018 10:01:12 : Creating Index
+12/11/2018 10:01:15 :   Total PDF files in all directories : 21
+12/11/2018 10:01:15 :   Total PDF attachments : 0
+12/11/2018 10:01:15 :   Total new files : 21
+12/11/2018 10:01:15 :   Total pages indexed : 3319
+12/11/2018 10:01:15 :   Total number of files skipped : 0
+12/11/2018 10:01:15 :   Total deleted files : 0
+12/11/2018 10:01:15 : Index build successful.
+
+06/02/2019 10:15:12 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Partner_Documentation_Index.pdx
+06/02/2019 10:15:12 : Deleting files from current index
+06/02/2019 10:15:12 : Deleting : R:\Data\documentation\built_pdf\Indexes\Partner_Documentation_Index\index.idx
+06/02/2019 10:15:12 : Deleting : R:\Data\documentation\built_pdf\Indexes\Partner_Documentation_Index\index1.idx
+06/02/2019 10:15:12 : Searching : R:\Data\documentation\built_pdf\Clinic\Partner\
+06/02/2019 10:15:12 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Partner\
+06/02/2019 10:15:12 : Searching : R:\Data\documentation\built_pdf\Quest\Partner\
+06/02/2019 10:15:14 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+06/02/2019 10:15:14 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+06/02/2019 10:15:14 : Indexing 21 files
+06/02/2019 10:15:14 : Extracting : R:\Data\documentation\built_pdf\Clinic\Partner\D2301_FOF1.pdf
+06/02/2019 10:15:16 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5700_fMetabolomics.pdf
+06/02/2019 10:15:16 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5703_fsamples.pdf
+06/02/2019 10:15:16 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1202_PB.pdf
+06/02/2019 10:15:21 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1209_PJ.pdf
+06/02/2019 10:15:23 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1210_PK.pdf
+06/02/2019 10:15:26 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1208_PH.pdf
+06/02/2019 10:15:28 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1214_PP.pdf
+06/02/2019 10:15:32 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1211_PL.pdf
+06/02/2019 10:15:35 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1213_PN.pdf
+06/02/2019 10:15:36 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1207_PG.pdf
+06/02/2019 10:15:42 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1212_PM.pdf
+06/02/2019 10:15:45 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1201_PA.pdf
+06/02/2019 10:15:49 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1204_PD.pdf
+06/02/2019 10:15:50 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1215_PQ.pdf
+06/02/2019 10:15:53 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1205_PE.pdf
+06/02/2019 10:15:57 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1206_PF.pdf
+06/02/2019 10:15:59 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1250_PXA.pdf
+06/02/2019 10:16:01 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1203_PC.pdf
+06/02/2019 10:16:03 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+06/02/2019 10:16:03 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+06/02/2019 10:16:03 : Creating Index
+06/02/2019 10:16:09 :   Total PDF files in all directories : 21
+06/02/2019 10:16:09 :   Total PDF attachments : 0
+06/02/2019 10:16:09 :   Total new files : 21
+06/02/2019 10:16:09 :   Total pages indexed : 3296
+06/02/2019 10:16:09 :   Total number of files skipped : 0
+06/02/2019 10:16:09 :   Total deleted files : 0
+06/02/2019 10:16:09 : Index build successful.
+
+18/03/2019 10:14:20 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Partner_Documentation_Index.pdx
+18/03/2019 10:14:20 : Deleting files from current index
+18/03/2019 10:14:20 : Deleting : R:\Data\documentation\built_pdf\Indexes\Partner_Documentation_Index\index.idx
+18/03/2019 10:14:20 : Deleting : R:\Data\documentation\built_pdf\Indexes\Partner_Documentation_Index\index1.idx
+18/03/2019 10:14:20 : Searching : R:\Data\documentation\built_pdf\Clinic\Partner\
+18/03/2019 10:14:20 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Partner\
+18/03/2019 10:14:20 : Searching : R:\Data\documentation\built_pdf\Quest\Partner\
+18/03/2019 10:14:21 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+18/03/2019 10:14:21 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+18/03/2019 10:14:21 : Indexing 21 files
+18/03/2019 10:14:21 : Extracting : R:\Data\documentation\built_pdf\Clinic\Partner\D2301_FOF1.pdf
+18/03/2019 10:14:23 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5700_fMetabolomics.pdf
+18/03/2019 10:14:23 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5703_fsamples.pdf
+18/03/2019 10:14:23 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1202_PB.pdf
+18/03/2019 10:14:28 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1209_PJ.pdf
+18/03/2019 10:14:30 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1210_PK.pdf
+18/03/2019 10:14:34 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1208_PH.pdf
+18/03/2019 10:14:36 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1214_PP.pdf
+18/03/2019 10:14:39 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1211_PL.pdf
+18/03/2019 10:14:42 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1213_PN.pdf
+18/03/2019 10:14:44 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1207_PG.pdf
+18/03/2019 10:14:50 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1212_PM.pdf
+18/03/2019 10:14:53 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1201_PA.pdf
+18/03/2019 10:14:57 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1204_PD.pdf
+18/03/2019 10:14:59 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1215_PQ.pdf
+18/03/2019 10:15:02 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1205_PE.pdf
+18/03/2019 10:15:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1206_PF.pdf
+18/03/2019 10:15:08 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1250_PXA.pdf
+18/03/2019 10:15:10 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1203_PC.pdf
+18/03/2019 10:15:12 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+18/03/2019 10:15:12 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+18/03/2019 10:15:12 : Creating Index
+18/03/2019 10:15:17 :   Total PDF files in all directories : 21
+18/03/2019 10:15:17 :   Total PDF attachments : 0
+18/03/2019 10:15:17 :   Total new files : 21
+18/03/2019 10:15:17 :   Total pages indexed : 3297
+18/03/2019 10:15:17 :   Total number of files skipped : 0
+18/03/2019 10:15:17 :   Total deleted files : 0
+18/03/2019 10:15:17 : Index build successful.
+
+13/06/2019 11:01:22 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Partner_Documentation_Index.pdx
+13/06/2019 11:01:22 : Deleting files from current index
+13/06/2019 11:01:22 : Deleting : R:\Data\documentation\built_pdf\Indexes\Partner_Documentation_Index\index.idx
+13/06/2019 11:01:22 : Deleting : R:\Data\documentation\built_pdf\Indexes\Partner_Documentation_Index\index1.idx
+13/06/2019 11:01:22 : Searching : R:\Data\documentation\built_pdf\Clinic\Partner\
+13/06/2019 11:01:22 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Partner\
+13/06/2019 11:01:22 : Searching : R:\Data\documentation\built_pdf\Quest\Partner\
+13/06/2019 11:01:25 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+13/06/2019 11:01:25 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+13/06/2019 11:01:25 : Indexing 21 files
+13/06/2019 11:01:25 : Extracting : R:\Data\documentation\built_pdf\Clinic\Partner\D2301_FOF1.pdf
+13/06/2019 11:01:26 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5700_fMetabolomics.pdf
+13/06/2019 11:01:27 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Partner\D5703_fsamples.pdf
+13/06/2019 11:01:27 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1201_PA.pdf
+13/06/2019 11:01:31 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1202_PB.pdf
+13/06/2019 11:01:39 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1203_PC.pdf
+13/06/2019 11:01:40 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1204_PD.pdf
+13/06/2019 11:01:42 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1205_PE.pdf
+13/06/2019 11:01:46 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1206_PF.pdf
+13/06/2019 11:01:48 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1207_PG.pdf
+13/06/2019 11:01:55 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1208_PH.pdf
+13/06/2019 11:01:57 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1209_PJ.pdf
+13/06/2019 11:01:59 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1210_PK.pdf
+13/06/2019 11:02:03 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1211_PL.pdf
+13/06/2019 11:02:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1212_PM.pdf
+13/06/2019 11:02:09 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1213_PN.pdf
+13/06/2019 11:02:10 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1214_PP.pdf
+13/06/2019 11:02:14 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1215_PQ.pdf
+13/06/2019 11:02:17 : Extracting : R:\Data\documentation\built_pdf\Quest\Partner\D1250_PXA.pdf
+13/06/2019 11:02:19 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+13/06/2019 11:02:20 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v5.pdf
+13/06/2019 11:02:20 : Creating Index
+13/06/2019 11:02:26 :   Total PDF files in all directories : 21
+13/06/2019 11:02:26 :   Total PDF attachments : 0
+13/06/2019 11:02:26 :   Total new files : 21
+13/06/2019 11:02:26 :   Total pages indexed : 3291
+13/06/2019 11:02:26 :   Total number of files skipped : 0
+13/06/2019 11:02:26 :   Total deleted files : 0
+13/06/2019 11:02:26 : Index build successful.

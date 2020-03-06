@@ -1,0 +1,718 @@
+25/01/2010 12:32:33 : Starting build.
+25/01/2010 12:32:33 : Searching : R:\data\documentation\quest_pdf\mum\
+25/01/2010 12:32:33 : Indexing 17 files
+25/01/2010 12:32:33 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m01__your_environment.pdf
+25/01/2010 12:32:34 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m02__about_yourself.pdf
+25/01/2010 12:32:34 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m03__having_a_baby.pdf
+25/01/2010 12:32:35 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m04__your_pregnancy.pdf
+25/01/2010 12:32:36 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m05__me_and_my_baby.pdf
+25/01/2010 12:32:36 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m06__looking_after_the_baby.pdf
+25/01/2010 12:32:37 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m07__caring_for_a_toddler.pdf
+25/01/2010 12:32:38 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m08__your_health_events_and_feelings.pdf
+25/01/2010 12:32:39 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m09__mothers_new_questionnaire.pdf
+25/01/2010 12:32:40 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m10__study_mothers_questionnaire.pdf
+25/01/2010 12:32:41 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m11__mothers_lifestyle.pdf
+25/01/2010 12:32:42 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m12__mother_and_home.pdf
+25/01/2010 12:32:43 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m13__mother_and_family.pdf
+25/01/2010 12:32:45 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m14__mother_of_a_9_year_old.pdf
+25/01/2010 12:32:46 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m15__you_and_your_surroundings.pdf
+25/01/2010 12:32:47 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m16__lifestyle_and_health_of_mother.pdf
+25/01/2010 12:32:48 : Extracting : R:\data\documentation\quest_pdf\mum\ques_m17__twelve_years_on.pdf
+25/01/2010 12:32:49 : Creating Index
+25/01/2010 12:32:51 :   Total PDF files in all directories : 17
+25/01/2010 12:32:51 :   Total new files : 17
+25/01/2010 12:32:51 :   Total pages indexed : 770
+25/01/2010 12:32:52 :   Total number of files skipped : 0
+25/01/2010 12:32:52 :   Total deleted files : 0
+25/01/2010 12:32:52 : Index build successful.
+
+04/02/2010 15:23:57 : Starting rebuild
+04/02/2010 15:23:57 : Deleting files from current index
+04/02/2010 15:23:57 : Deleting : R:\data\documentation\Indexes\Mother_Questionnaire_Index\index.idx
+04/02/2010 15:23:57 : Deleting : R:\data\documentation\Indexes\Mother_Questionnaire_Index\index1.idx
+04/02/2010 15:23:57 : Searching : R:\data\documentation\quest_pdf\Quest\Mother\
+04/02/2010 15:23:57 : Indexing 18 files
+04/02/2010 15:23:57 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+04/02/2010 15:23:58 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+04/02/2010 15:23:58 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+04/02/2010 15:23:59 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+04/02/2010 15:24:00 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+04/02/2010 15:24:00 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+04/02/2010 15:24:01 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+04/02/2010 15:24:02 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+04/02/2010 15:24:03 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+04/02/2010 15:24:04 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+04/02/2010 15:24:05 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+04/02/2010 15:24:06 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+04/02/2010 15:24:07 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+04/02/2010 15:24:08 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+04/02/2010 15:24:09 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+04/02/2010 15:24:11 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+04/02/2010 15:24:12 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+04/02/2010 15:24:13 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+04/02/2010 15:24:13 : Creating Index
+04/02/2010 15:24:16 :   Total PDF files in all directories : 18
+04/02/2010 15:24:16 :   Total new files : 18
+04/02/2010 15:24:16 :   Total pages indexed : 786
+04/02/2010 15:24:16 :   Total number of files skipped : 0
+04/02/2010 15:24:16 :   Total deleted files : 0
+04/02/2010 15:24:16 : Index build successful.
+
+25/08/2010 16:15:11 : Starting rebuild
+25/08/2010 16:15:11 : Deleting files from current index
+25/08/2010 16:15:11 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index.idx
+25/08/2010 16:15:11 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index1.idx
+25/08/2010 16:15:12 : Searching : R:\Data\documentation\quest_pdf\Quest\Mother\
+25/08/2010 16:15:15 : Indexing 20 files
+25/08/2010 16:15:15 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+25/08/2010 16:15:16 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+25/08/2010 16:15:17 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+25/08/2010 16:15:17 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+25/08/2010 16:15:18 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+25/08/2010 16:15:19 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+25/08/2010 16:15:20 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+25/08/2010 16:15:22 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+25/08/2010 16:15:23 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+25/08/2010 16:15:26 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+25/08/2010 16:15:28 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+25/08/2010 16:15:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+25/08/2010 16:15:32 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+25/08/2010 16:15:33 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+25/08/2010 16:15:36 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+25/08/2010 16:15:39 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+25/08/2010 16:15:41 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+25/08/2010 16:15:42 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+25/08/2010 16:15:42 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+25/08/2010 16:15:45 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+25/08/2010 16:15:48 : Creating Index
+25/08/2010 16:15:52 :   Total PDF files in all directories : 20
+25/08/2010 16:15:52 :   Total new files : 20
+25/08/2010 16:15:52 :   Total pages indexed : 864
+25/08/2010 16:15:52 :   Total number of files skipped : 0
+25/08/2010 16:15:52 :   Total deleted files : 0
+25/08/2010 16:15:52 : Index build successful.
+
+26/08/2010 16:30:25 : Starting rebuild
+26/08/2010 16:30:25 : Deleting files from current index
+26/08/2010 16:30:25 : Deleting : R:\data\documentation\Indexes\Mother_Questionnaire_Index\index.idx
+26/08/2010 16:30:25 : Deleting : R:\data\documentation\Indexes\Mother_Questionnaire_Index\index1.idx
+26/08/2010 16:30:25 : Searching : R:\data\documentation\quest_pdf\Quest\Mother\
+26/08/2010 16:30:29 : Indexing 20 files
+26/08/2010 16:30:29 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+26/08/2010 16:30:30 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+26/08/2010 16:30:30 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+26/08/2010 16:30:31 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+26/08/2010 16:30:32 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+26/08/2010 16:30:33 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+26/08/2010 16:30:33 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+26/08/2010 16:30:35 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+26/08/2010 16:30:37 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+26/08/2010 16:30:38 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+26/08/2010 16:30:39 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+26/08/2010 16:30:41 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+26/08/2010 16:30:42 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+26/08/2010 16:30:45 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+26/08/2010 16:30:48 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+26/08/2010 16:30:50 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+26/08/2010 16:30:51 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+26/08/2010 16:30:51 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+26/08/2010 16:30:54 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+26/08/2010 16:30:57 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+26/08/2010 16:30:58 : Creating Index
+26/08/2010 16:31:03 :   Total PDF files in all directories : 20
+26/08/2010 16:31:03 :   Total new files : 20
+26/08/2010 16:31:03 :   Total pages indexed : 872
+26/08/2010 16:31:03 :   Total number of files skipped : 0
+26/08/2010 16:31:03 :   Total deleted files : 0
+26/08/2010 16:31:03 : Index build successful.
+
+27/08/2010 10:49:02 : Starting rebuild
+27/08/2010 10:49:02 : Deleting files from current index
+27/08/2010 10:49:02 : Deleting : R:\data\documentation\Indexes\Mother_Questionnaire_Index\index.idx
+27/08/2010 10:49:02 : Deleting : R:\data\documentation\Indexes\Mother_Questionnaire_Index\index1.idx
+27/08/2010 10:49:02 : Searching : R:\data\documentation\quest_pdf\Quest\Mother\
+27/08/2010 10:49:04 : Indexing 20 files
+27/08/2010 10:49:04 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+27/08/2010 10:49:05 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+27/08/2010 10:49:06 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+27/08/2010 10:49:06 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+27/08/2010 10:49:07 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+27/08/2010 10:49:08 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+27/08/2010 10:49:09 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+27/08/2010 10:49:10 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+27/08/2010 10:49:13 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+27/08/2010 10:49:14 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+27/08/2010 10:49:15 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+27/08/2010 10:49:17 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+27/08/2010 10:49:18 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+27/08/2010 10:49:21 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+27/08/2010 10:49:24 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+27/08/2010 10:49:26 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+27/08/2010 10:49:27 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+27/08/2010 10:49:27 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+27/08/2010 10:49:30 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+27/08/2010 10:49:33 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+27/08/2010 10:49:34 : Creating Index
+27/08/2010 10:49:38 :   Total PDF files in all directories : 20
+27/08/2010 10:49:38 :   Total new files : 20
+27/08/2010 10:49:38 :   Total pages indexed : 872
+27/08/2010 10:49:38 :   Total number of files skipped : 0
+27/08/2010 10:49:38 :   Total deleted files : 0
+27/08/2010 10:49:38 : Index build successful.
+
+01/09/2010 10:33:49 : Starting rebuild
+01/09/2010 10:33:49 : Deleting files from current index
+01/09/2010 10:33:49 : Deleting : R:\data\documentation\Indexes\Mother_Questionnaire_Index\index.idx
+01/09/2010 10:33:49 : Deleting : R:\data\documentation\Indexes\Mother_Questionnaire_Index\index1.idx
+01/09/2010 10:33:50 : Searching : R:\data\documentation\quest_pdf\Quest\Mother\
+01/09/2010 10:34:19 : Indexing 20 files
+01/09/2010 10:34:19 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+01/09/2010 10:34:20 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+01/09/2010 10:34:20 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+01/09/2010 10:34:21 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+01/09/2010 10:34:22 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+01/09/2010 10:34:24 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+01/09/2010 10:34:25 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+01/09/2010 10:34:28 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+01/09/2010 10:34:29 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+01/09/2010 10:34:31 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+01/09/2010 10:34:32 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+01/09/2010 10:34:34 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+01/09/2010 10:34:37 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+01/09/2010 10:34:40 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+01/09/2010 10:34:43 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+01/09/2010 10:34:43 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+01/09/2010 10:34:44 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+01/09/2010 10:34:47 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+01/09/2010 10:34:50 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+01/09/2010 10:34:51 : Extracting : R:\data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+01/09/2010 10:34:52 : Creating Index
+01/09/2010 10:34:58 :   Total PDF files in all directories : 20
+01/09/2010 10:34:58 :   Total new files : 20
+01/09/2010 10:34:58 :   Total pages indexed : 880
+01/09/2010 10:34:58 :   Total number of files skipped : 0
+01/09/2010 10:34:58 :   Total deleted files : 0
+01/09/2010 10:34:58 : Index build successful.
+
+01/09/2010 13:15:49 : Starting rebuild
+01/09/2010 13:15:49 : Deleting files from current index
+01/09/2010 13:15:49 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index.idx
+01/09/2010 13:15:49 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index1.idx
+01/09/2010 13:15:49 : Searching : R:\Data\documentation\quest_pdf\Quest\Mother\
+01/09/2010 13:15:52 : Indexing 20 files
+01/09/2010 13:15:52 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+01/09/2010 13:15:52 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+01/09/2010 13:15:53 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+01/09/2010 13:15:54 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+01/09/2010 13:15:55 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+01/09/2010 13:15:56 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+01/09/2010 13:15:57 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+01/09/2010 13:16:00 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+01/09/2010 13:16:01 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+01/09/2010 13:16:03 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+01/09/2010 13:16:04 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+01/09/2010 13:16:07 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+01/09/2010 13:16:10 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+01/09/2010 13:16:13 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+01/09/2010 13:16:13 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+01/09/2010 13:16:13 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+01/09/2010 13:16:16 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+01/09/2010 13:16:19 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+01/09/2010 13:16:20 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+01/09/2010 13:16:22 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+01/09/2010 13:16:24 : Creating Index
+01/09/2010 13:16:28 :   Total PDF files in all directories : 20
+01/09/2010 13:16:28 :   Total new files : 20
+01/09/2010 13:16:28 :   Total pages indexed : 880
+01/09/2010 13:16:28 :   Total number of files skipped : 0
+01/09/2010 13:16:28 :   Total deleted files : 0
+01/09/2010 13:16:28 : Index build successful.
+
+06/09/2010 16:11:04 : Starting rebuild
+06/09/2010 16:11:04 : Deleting files from current index
+06/09/2010 16:11:04 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index.idx
+06/09/2010 16:11:04 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index1.idx
+06/09/2010 16:11:05 : Searching : R:\Data\documentation\quest_pdf\Quest\Mother\
+06/09/2010 16:11:07 : Indexing 20 files
+06/09/2010 16:11:07 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+06/09/2010 16:11:08 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+06/09/2010 16:11:09 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+06/09/2010 16:11:10 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+06/09/2010 16:11:11 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+06/09/2010 16:11:12 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+06/09/2010 16:11:13 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+06/09/2010 16:11:16 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+06/09/2010 16:11:19 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+06/09/2010 16:11:23 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+06/09/2010 16:11:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+06/09/2010 16:11:29 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+06/09/2010 16:11:32 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+06/09/2010 16:11:34 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+06/09/2010 16:11:34 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+06/09/2010 16:11:34 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+06/09/2010 16:11:37 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+06/09/2010 16:11:40 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+06/09/2010 16:11:42 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+06/09/2010 16:11:43 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+06/09/2010 16:11:45 : Creating Index
+06/09/2010 16:11:49 :   Total PDF files in all directories : 20
+06/09/2010 16:11:49 :   Total new files : 20
+06/09/2010 16:11:49 :   Total pages indexed : 880
+06/09/2010 16:11:49 :   Total number of files skipped : 0
+06/09/2010 16:11:49 :   Total deleted files : 0
+06/09/2010 16:11:49 : Index build successful.
+
+07/09/2010 15:08:29 : Starting rebuild
+07/09/2010 15:08:29 : Deleting files from current index
+07/09/2010 15:08:29 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index.idx
+07/09/2010 15:08:29 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index1.idx
+07/09/2010 15:08:29 : Searching : R:\Data\documentation\quest_pdf\Quest\Mother\
+07/09/2010 15:08:30 : Indexing 20 files
+07/09/2010 15:08:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+07/09/2010 15:08:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+07/09/2010 15:08:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+07/09/2010 15:08:32 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+07/09/2010 15:08:33 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+07/09/2010 15:08:34 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+07/09/2010 15:08:35 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+07/09/2010 15:08:37 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+07/09/2010 15:08:39 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+07/09/2010 15:08:40 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+07/09/2010 15:08:42 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+07/09/2010 15:08:44 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+07/09/2010 15:08:46 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+07/09/2010 15:08:48 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+07/09/2010 15:08:48 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+07/09/2010 15:08:49 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+07/09/2010 15:08:50 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+07/09/2010 15:08:53 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+07/09/2010 15:08:54 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+07/09/2010 15:08:55 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+07/09/2010 15:08:57 : Creating Index
+07/09/2010 15:09:01 :   Total PDF files in all directories : 20
+07/09/2010 15:09:01 :   Total new files : 20
+07/09/2010 15:09:01 :   Total pages indexed : 880
+07/09/2010 15:09:01 :   Total number of files skipped : 0
+07/09/2010 15:09:01 :   Total deleted files : 0
+07/09/2010 15:09:01 : Index build successful.
+
+07/09/2010 16:18:03 : Starting rebuild
+07/09/2010 16:18:03 : Deleting files from current index
+07/09/2010 16:18:03 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index.idx
+07/09/2010 16:18:04 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index1.idx
+07/09/2010 16:18:04 : Searching : R:\Data\documentation\quest_pdf\Quest\Mother\
+07/09/2010 16:18:05 : Indexing 20 files
+07/09/2010 16:18:05 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+07/09/2010 16:18:05 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+07/09/2010 16:18:06 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+07/09/2010 16:18:07 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+07/09/2010 16:18:07 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+07/09/2010 16:18:08 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+07/09/2010 16:18:10 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+07/09/2010 16:18:11 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+07/09/2010 16:18:13 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+07/09/2010 16:18:15 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+07/09/2010 16:18:17 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+07/09/2010 16:18:19 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+07/09/2010 16:18:21 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+07/09/2010 16:18:23 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+07/09/2010 16:18:23 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+07/09/2010 16:18:23 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+07/09/2010 16:18:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+07/09/2010 16:18:27 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+07/09/2010 16:18:28 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+07/09/2010 16:18:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+07/09/2010 16:18:31 : Creating Index
+07/09/2010 16:18:36 :   Total PDF files in all directories : 20
+07/09/2010 16:18:36 :   Total new files : 20
+07/09/2010 16:18:36 :   Total pages indexed : 880
+07/09/2010 16:18:36 :   Total number of files skipped : 0
+07/09/2010 16:18:36 :   Total deleted files : 0
+07/09/2010 16:18:36 : Index build successful.
+
+26/03/2012 14:50:01 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Questionnaire_Index.pdx
+26/03/2012 14:50:02 : Deleting files from current index
+26/03/2012 14:50:02 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index.idx
+26/03/2012 14:50:02 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index1.idx
+26/03/2012 14:50:02 : Searching : R:\Data\documentation\quest_pdf\Quest\Mother\
+26/03/2012 14:50:04 : Indexing 21 files
+26/03/2012 14:50:04 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+26/03/2012 14:50:04 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+26/03/2012 14:50:05 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+26/03/2012 14:50:05 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+26/03/2012 14:50:05 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+26/03/2012 14:50:06 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+26/03/2012 14:50:07 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+26/03/2012 14:50:08 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+26/03/2012 14:50:09 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+26/03/2012 14:50:10 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+26/03/2012 14:50:11 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+26/03/2012 14:50:12 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+26/03/2012 14:50:13 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+26/03/2012 14:50:14 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+26/03/2012 14:50:14 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+26/03/2012 14:50:15 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+26/03/2012 14:50:16 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+26/03/2012 14:50:17 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+26/03/2012 14:50:17 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+26/03/2012 14:50:18 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+26/03/2012 14:50:18 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1119_U.pdf
+26/03/2012 14:50:19 : Creating Index
+26/03/2012 14:50:22 :   Total PDF files in all directories : 21
+26/03/2012 14:50:22 :   Total PDF attachments : 0
+26/03/2012 14:50:22 :   Total new files : 21
+26/03/2012 14:50:22 :   Total pages indexed : 904
+26/03/2012 14:50:22 :   Total number of files skipped : 0
+26/03/2012 14:50:22 :   Total deleted files : 0
+26/03/2012 14:50:22 : Index build successful.
+
+19/10/2012 15:52:04 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Questionnaire_Index.pdx
+19/10/2012 15:52:04 : Deleting files from current index
+19/10/2012 15:52:04 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index.idx
+19/10/2012 15:52:04 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index1.idx
+19/10/2012 15:52:04 : Searching : R:\Data\documentation\quest_pdf\Quest\Mother\
+19/10/2012 15:52:06 : Indexing 21 files
+19/10/2012 15:52:06 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+19/10/2012 15:52:06 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+19/10/2012 15:52:06 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+19/10/2012 15:52:07 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+19/10/2012 15:52:07 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+19/10/2012 15:52:07 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+19/10/2012 15:52:08 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+19/10/2012 15:52:09 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+19/10/2012 15:52:09 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+19/10/2012 15:52:10 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+19/10/2012 15:52:11 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+19/10/2012 15:52:12 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+19/10/2012 15:52:13 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+19/10/2012 15:52:13 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+19/10/2012 15:52:14 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+19/10/2012 15:52:14 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+19/10/2012 15:52:14 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+19/10/2012 15:52:15 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+19/10/2012 15:52:16 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+19/10/2012 15:52:16 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+19/10/2012 15:52:17 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1119_U.pdf
+19/10/2012 15:52:17 : Creating Index
+19/10/2012 15:52:19 :   Total PDF files in all directories : 21
+19/10/2012 15:52:19 :   Total PDF attachments : 0
+19/10/2012 15:52:19 :   Total new files : 21
+19/10/2012 15:52:19 :   Total pages indexed : 904
+19/10/2012 15:52:19 :   Total number of files skipped : 0
+19/10/2012 15:52:19 :   Total deleted files : 0
+19/10/2012 15:52:19 : Index build successful.
+
+27/11/2017 14:10:53 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Questionnaire_Index.pdx
+27/11/2017 14:10:53 : Deleting files from current index
+27/11/2017 14:10:53 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index.idx
+27/11/2017 14:10:53 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index1.idx
+27/11/2017 14:10:53 : Searching : R:\Data\documentation\quest_pdf\Quest\Mother\
+27/11/2017 14:10:54 : Indexing 21 files
+27/11/2017 14:10:54 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+27/11/2017 14:10:55 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+27/11/2017 14:10:55 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+27/11/2017 14:10:55 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+27/11/2017 14:10:56 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+27/11/2017 14:10:56 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+27/11/2017 14:10:56 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+27/11/2017 14:10:57 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+27/11/2017 14:10:57 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+27/11/2017 14:10:57 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+27/11/2017 14:10:58 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+27/11/2017 14:10:58 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+27/11/2017 14:10:59 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+27/11/2017 14:11:00 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+27/11/2017 14:11:00 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+27/11/2017 14:11:00 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+27/11/2017 14:11:00 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+27/11/2017 14:11:01 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+27/11/2017 14:11:01 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1119_U.pdf
+27/11/2017 14:11:01 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+27/11/2017 14:11:02 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+27/11/2017 14:11:02 : Creating Index
+27/11/2017 14:11:04 :   Total PDF files in all directories : 21
+27/11/2017 14:11:04 :   Total PDF attachments : 0
+27/11/2017 14:11:04 :   Total new files : 21
+27/11/2017 14:11:04 :   Total pages indexed : 904
+27/11/2017 14:11:04 :   Total number of files skipped : 0
+27/11/2017 14:11:04 :   Total deleted files : 0
+27/11/2017 14:11:04 : Index build successful.
+
+12/04/2018 11:49:58 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Questionnaire_Index.pdx
+12/04/2018 11:49:58 : Deleting files from current index
+12/04/2018 11:49:58 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index.idx
+12/04/2018 11:49:58 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index1.idx
+12/04/2018 11:49:58 : Searching : R:\Data\documentation\quest_pdf\Quest\Mother\
+12/04/2018 11:49:59 : Indexing 21 files
+12/04/2018 11:49:59 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+12/04/2018 11:49:59 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+12/04/2018 11:50:00 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+12/04/2018 11:50:01 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+12/04/2018 11:50:01 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+12/04/2018 11:50:01 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+12/04/2018 11:50:02 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+12/04/2018 11:50:02 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+12/04/2018 11:50:02 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+12/04/2018 11:50:03 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+12/04/2018 11:50:03 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+12/04/2018 11:50:04 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+12/04/2018 11:50:04 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+12/04/2018 11:50:05 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+12/04/2018 11:50:05 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+12/04/2018 11:50:05 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+12/04/2018 11:50:06 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+12/04/2018 11:50:06 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+12/04/2018 11:50:07 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1119_U.pdf
+12/04/2018 11:50:07 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+12/04/2018 11:50:07 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+12/04/2018 11:50:08 : Creating Index
+12/04/2018 11:50:09 :   Total PDF files in all directories : 21
+12/04/2018 11:50:09 :   Total PDF attachments : 0
+12/04/2018 11:50:09 :   Total new files : 21
+12/04/2018 11:50:09 :   Total pages indexed : 904
+12/04/2018 11:50:09 :   Total number of files skipped : 0
+12/04/2018 11:50:09 :   Total deleted files : 0
+12/04/2018 11:50:09 : Index build successful.
+
+10/05/2018 17:01:30 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Questionnaire_Index.pdx
+10/05/2018 17:01:31 : Deleting files from current index
+10/05/2018 17:01:31 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index.idx
+10/05/2018 17:01:31 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index1.idx
+10/05/2018 17:01:31 : Searching : R:\Data\documentation\quest_pdf\Quest\Mother\
+10/05/2018 17:01:31 : Indexing 21 files
+10/05/2018 17:01:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+10/05/2018 17:01:32 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+10/05/2018 17:01:32 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+10/05/2018 17:01:32 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+10/05/2018 17:01:33 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+10/05/2018 17:01:33 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+10/05/2018 17:01:34 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+10/05/2018 17:01:34 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+10/05/2018 17:01:34 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+10/05/2018 17:01:34 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+10/05/2018 17:01:35 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+10/05/2018 17:01:36 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+10/05/2018 17:01:36 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+10/05/2018 17:01:36 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+10/05/2018 17:01:37 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+10/05/2018 17:01:37 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+10/05/2018 17:01:37 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+10/05/2018 17:01:38 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+10/05/2018 17:01:38 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1119_U.pdf
+10/05/2018 17:01:38 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+10/05/2018 17:01:38 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+10/05/2018 17:01:39 : Creating Index
+10/05/2018 17:01:40 :   Total PDF files in all directories : 21
+10/05/2018 17:01:40 :   Total PDF attachments : 0
+10/05/2018 17:01:40 :   Total new files : 21
+10/05/2018 17:01:40 :   Total pages indexed : 904
+10/05/2018 17:01:40 :   Total number of files skipped : 0
+10/05/2018 17:01:40 :   Total deleted files : 0
+10/05/2018 17:01:40 : Index build successful.
+
+11/05/2018 11:08:55 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Questionnaire_Index.pdx
+11/05/2018 11:08:55 : Deleting files from current index
+11/05/2018 11:08:55 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index.idx
+11/05/2018 11:08:55 : Deleting : R:\Data\documentation\Indexes\Mother_Questionnaire_Index\index1.idx
+11/05/2018 11:08:55 : Searching : R:\Data\documentation\quest_pdf\Quest\Mother\
+11/05/2018 11:08:55 : Indexing 21 files
+11/05/2018 11:08:56 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+11/05/2018 11:08:56 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+11/05/2018 11:08:56 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+11/05/2018 11:08:57 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+11/05/2018 11:08:57 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+11/05/2018 11:08:57 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+11/05/2018 11:08:58 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+11/05/2018 11:08:58 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+11/05/2018 11:08:59 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+11/05/2018 11:08:59 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+11/05/2018 11:08:59 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+11/05/2018 11:09:00 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+11/05/2018 11:09:00 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+11/05/2018 11:09:01 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+11/05/2018 11:09:01 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+11/05/2018 11:09:01 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+11/05/2018 11:09:02 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+11/05/2018 11:09:02 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+11/05/2018 11:09:03 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1119_U.pdf
+11/05/2018 11:09:03 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+11/05/2018 11:09:03 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+11/05/2018 11:09:04 : Creating Index
+11/05/2018 11:09:05 :   Total PDF files in all directories : 21
+11/05/2018 11:09:05 :   Total PDF attachments : 0
+11/05/2018 11:09:05 :   Total new files : 21
+11/05/2018 11:09:05 :   Total pages indexed : 904
+11/05/2018 11:09:05 :   Total number of files skipped : 0
+11/05/2018 11:09:05 :   Total deleted files : 0
+11/05/2018 11:09:05 : Index build successful.
+
+09/11/2018 14:44:04 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Mother_Questionnaire_Index.pdx
+09/11/2018 14:44:04 : Deleting files from current index
+09/11/2018 14:44:04 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Questionnaire_Index\index.idx
+09/11/2018 14:44:04 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Questionnaire_Index\index1.idx
+09/11/2018 14:44:04 : Searching : R:\Data\documentation\built_pdf\quest_pdf\Quest\Mother\
+09/11/2018 14:44:04 : Could not locate folder : R:\Data\documentation\built_pdf\quest_pdf\Quest\Mother\
+09/11/2018 14:44:04 : No new or changed files found
+09/11/2018 14:44:04 :   Total PDF files in all directories : 0
+09/11/2018 14:44:04 :   Total PDF attachments : 0
+09/11/2018 14:44:04 :   Total new files : 0
+09/11/2018 14:44:04 :   Total pages indexed : 0
+09/11/2018 14:44:04 :   Total number of files skipped : 0
+09/11/2018 14:44:04 :   Total deleted files : 0
+09/11/2018 14:44:04 : Index build successful.
+
+12/11/2018 08:59:08 : Starting build of Index : R:\Data\documentation\built_pdf\Indexes\Mother_Questionnaire_Index.pdx
+12/11/2018 08:59:08 : Searching : R:\Data\documentation\built_pdf\quest_pdf\Quest\Mother\
+12/11/2018 08:59:08 : Could not locate folder : R:\Data\documentation\built_pdf\quest_pdf\Quest\Mother\
+12/11/2018 08:59:08 : No new or changed files found
+12/11/2018 08:59:08 :   Total PDF files in all directories : 0
+12/11/2018 08:59:08 :   Total PDF attachments : 0
+12/11/2018 08:59:08 :   Total new files : 0
+12/11/2018 08:59:08 :   Total pages indexed : 0
+12/11/2018 08:59:08 :   Total number of files skipped : 0
+12/11/2018 08:59:08 :   Total deleted files : 0
+12/11/2018 08:59:08 : Index build successful.
+
+12/11/2018 09:54:51 : Starting build of Index : R:\Data\documentation\built_pdf\Indexes\Mother_Questionnaire_Index.pdx
+12/11/2018 09:54:51 : Searching : R:\Data\documentation\quest_pdf\Quest\Mother\
+12/11/2018 09:54:52 : Indexing 21 files
+12/11/2018 09:54:52 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+12/11/2018 09:54:52 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+12/11/2018 09:54:52 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+12/11/2018 09:54:53 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+12/11/2018 09:54:53 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+12/11/2018 09:54:53 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+12/11/2018 09:54:54 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+12/11/2018 09:54:54 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+12/11/2018 09:54:55 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+12/11/2018 09:54:55 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+12/11/2018 09:54:55 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+12/11/2018 09:54:56 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+12/11/2018 09:54:57 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+12/11/2018 09:54:57 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+12/11/2018 09:54:58 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+12/11/2018 09:54:58 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+12/11/2018 09:54:58 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+12/11/2018 09:54:58 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+12/11/2018 09:54:59 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1119_U.pdf
+12/11/2018 09:54:59 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+12/11/2018 09:54:59 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+12/11/2018 09:55:00 : Creating Index
+12/11/2018 09:55:01 :   Total PDF files in all directories : 21
+12/11/2018 09:55:01 :   Total PDF attachments : 0
+12/11/2018 09:55:01 :   Total new files : 21
+12/11/2018 09:55:01 :   Total pages indexed : 904
+12/11/2018 09:55:01 :   Total number of files skipped : 0
+12/11/2018 09:55:01 :   Total deleted files : 0
+12/11/2018 09:55:01 : Index build successful.
+
+06/02/2019 10:14:23 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Mother_Questionnaire_Index.pdx
+06/02/2019 10:14:23 : Deleting files from current index
+06/02/2019 10:14:23 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Questionnaire_Index\index.idx
+06/02/2019 10:14:23 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Questionnaire_Index\index1.idx
+06/02/2019 10:14:23 : Searching : R:\Data\documentation\quest_pdf\Quest\Mother\
+06/02/2019 10:14:24 : Indexing 22 files
+06/02/2019 10:14:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+06/02/2019 10:14:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+06/02/2019 10:14:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+06/02/2019 10:14:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+06/02/2019 10:14:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+06/02/2019 10:14:26 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+06/02/2019 10:14:26 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+06/02/2019 10:14:26 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+06/02/2019 10:14:27 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+06/02/2019 10:14:27 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+06/02/2019 10:14:28 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+06/02/2019 10:14:28 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+06/02/2019 10:14:29 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+06/02/2019 10:14:29 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+06/02/2019 10:14:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+06/02/2019 10:14:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+06/02/2019 10:14:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+06/02/2019 10:14:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+06/02/2019 10:14:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1119_U.pdf
+06/02/2019 10:14:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1120_V.pdf
+06/02/2019 10:14:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+06/02/2019 10:14:32 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+06/02/2019 10:14:32 : Creating Index
+06/02/2019 10:14:34 :   Total PDF files in all directories : 22
+06/02/2019 10:14:34 :   Total PDF attachments : 0
+06/02/2019 10:14:34 :   Total new files : 22
+06/02/2019 10:14:34 :   Total pages indexed : 956
+06/02/2019 10:14:34 :   Total number of files skipped : 0
+06/02/2019 10:14:34 :   Total deleted files : 0
+06/02/2019 10:14:34 : Index build successful.
+
+18/03/2019 10:14:01 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Mother_Questionnaire_Index.pdx
+18/03/2019 10:14:01 : Deleting files from current index
+18/03/2019 10:14:01 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Questionnaire_Index\index.idx
+18/03/2019 10:14:01 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Questionnaire_Index\index1.idx
+18/03/2019 10:14:01 : Searching : R:\Data\documentation\quest_pdf\Quest\Mother\
+18/03/2019 10:14:02 : Indexing 22 files
+18/03/2019 10:14:02 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+18/03/2019 10:14:02 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+18/03/2019 10:14:03 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+18/03/2019 10:14:03 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+18/03/2019 10:14:04 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+18/03/2019 10:14:04 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+18/03/2019 10:14:05 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+18/03/2019 10:14:05 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+18/03/2019 10:14:05 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+18/03/2019 10:14:06 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+18/03/2019 10:14:06 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+18/03/2019 10:14:07 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+18/03/2019 10:14:08 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+18/03/2019 10:14:08 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+18/03/2019 10:14:08 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+18/03/2019 10:14:09 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+18/03/2019 10:14:09 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+18/03/2019 10:14:09 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+18/03/2019 10:14:10 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1119_U.pdf
+18/03/2019 10:14:10 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1120_V.pdf
+18/03/2019 10:14:11 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+18/03/2019 10:14:11 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+18/03/2019 10:14:11 : Creating Index
+18/03/2019 10:14:13 :   Total PDF files in all directories : 22
+18/03/2019 10:14:13 :   Total PDF attachments : 0
+18/03/2019 10:14:13 :   Total new files : 22
+18/03/2019 10:14:13 :   Total pages indexed : 956
+18/03/2019 10:14:13 :   Total number of files skipped : 0
+18/03/2019 10:14:13 :   Total deleted files : 0
+18/03/2019 10:14:13 : Index build successful.
+
+10/01/2020 12:39:34 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Mother_Questionnaire_Index.pdx
+10/01/2020 12:39:34 : Deleting files from current index
+10/01/2020 12:39:34 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Questionnaire_Index\index.idx
+10/01/2020 12:39:34 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Questionnaire_Index\index1.idx
+10/01/2020 12:39:34 : Searching : R:\Data\documentation\quest_pdf\Quest\Mother\
+10/01/2020 12:42:36 : Indexing 22 files
+10/01/2020 12:42:36 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1101_A.pdf
+10/01/2020 12:42:37 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1102_D.pdf
+10/01/2020 12:42:37 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1103_B.pdf
+10/01/2020 12:42:37 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1104_C.pdf
+10/01/2020 12:42:38 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1105_E.pdf
+10/01/2020 12:42:38 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1106_F.pdf
+10/01/2020 12:42:38 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1107_G.pdf
+10/01/2020 12:42:39 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1108_H.pdf
+10/01/2020 12:42:39 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1109_J.pdf
+10/01/2020 12:42:40 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1110_K.pdf
+10/01/2020 12:42:41 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1111_L.pdf
+10/01/2020 12:42:42 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1112_M.pdf
+10/01/2020 12:42:42 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1113_N.pdf
+10/01/2020 12:42:43 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1114_P.pdf
+10/01/2020 12:42:44 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1115_Q.pdf
+10/01/2020 12:42:45 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1116_R.pdf
+10/01/2020 12:42:45 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1117_S.pdf
+10/01/2020 12:42:46 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1118_T.pdf
+10/01/2020 12:42:47 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1119_U.pdf
+10/01/2020 12:42:47 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1150_XA.pdf
+10/01/2020 12:42:47 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1151_XB.pdf
+10/01/2020 12:42:47 : Extracting : R:\Data\documentation\quest_pdf\Quest\Mother\Q1167_V.pdf
+10/01/2020 12:42:48 : Creating Index
+10/01/2020 12:42:50 :   Total PDF files in all directories : 22
+10/01/2020 12:42:50 :   Total PDF attachments : 0
+10/01/2020 12:42:50 :   Total new files : 22
+10/01/2020 12:42:50 :   Total pages indexed : 956
+10/01/2020 12:42:50 :   Total number of files skipped : 0
+10/01/2020 12:42:50 :   Total deleted files : 0
+10/01/2020 12:42:50 : Index build successful.

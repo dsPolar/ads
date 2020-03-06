@@ -1,0 +1,129 @@
+19/05/2011 15:24:31 : Starting build of Index : R:\Data\documentation\Indexes\External Documentation Index.pdx
+19/05/2011 15:24:31 : Searching : R:\Data\documentation\built_pdf\External\Education\
+19/05/2011 15:24:32 : Indexing 12 files
+19/05/2011 15:24:32 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3101_SATS.pdf
+19/05/2011 15:24:33 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3102_KS2.pdf
+19/05/2011 15:24:33 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3103_KS3.pdf
+19/05/2011 15:24:34 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3104_KS4.pdf
+19/05/2011 15:24:35 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3104_PLASC.pdf
+19/05/2011 15:24:36 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3156_ASCF.pdf
+19/05/2011 15:24:36 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3157_ASCG.pdf
+19/05/2011 15:24:36 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3158_ASCH.pdf
+19/05/2011 15:24:36 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3159_ASCJ.pdf
+19/05/2011 15:24:36 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3160_ASCK.pdf
+19/05/2011 15:24:36 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3161_ASCL.pdf
+19/05/2011 15:24:36 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3162_ASCM.pdf
+19/05/2011 15:24:36 : Creating Index
+19/05/2011 15:24:37 :   Total PDF files in all directories : 12
+19/05/2011 15:24:37 :   Total PDF attachments : 0
+19/05/2011 15:24:37 :   Total new files : 12
+19/05/2011 15:24:37 :   Total pages indexed : 257
+19/05/2011 15:24:37 :   Total number of files skipped : 0
+19/05/2011 15:24:37 :   Total deleted files : 0
+19/05/2011 15:24:37 : Index build successful.
+
+01/06/2011 16:25:21 : Starting rebuild of Index : R:\Data\documentation\Indexes\External Documentation Index.pdx
+01/06/2011 16:25:21 : Deleting files from current index
+01/06/2011 16:25:21 : Deleting : R:\Data\documentation\Indexes\External Documentation Index\index.idx
+01/06/2011 16:25:21 : Deleting : R:\Data\documentation\Indexes\External Documentation Index\index1.idx
+01/06/2011 16:25:21 : Searching : R:\Data\documentation\built_pdf\External\Education\
+01/06/2011 16:25:22 : Indexing 16 files
+01/06/2011 16:25:22 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3101_SATS.pdf
+01/06/2011 16:25:22 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3102_KS2.pdf
+01/06/2011 16:25:23 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3103_KS3.pdf
+01/06/2011 16:25:24 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3104_KS4.pdf
+01/06/2011 16:25:25 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3104_PLASC.pdf
+01/06/2011 16:25:25 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3156_ASCF.pdf
+01/06/2011 16:25:25 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3157_ASCG.pdf
+01/06/2011 16:25:26 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3158_ASCH.pdf
+01/06/2011 16:25:26 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3159_ASCJ.pdf
+01/06/2011 16:25:26 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3160_ASCK.pdf
+01/06/2011 16:25:26 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3161_ASCL.pdf
+01/06/2011 16:25:26 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3162_ASCM.pdf
+01/06/2011 16:25:26 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3166_ASCQ.pdf
+01/06/2011 16:25:26 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3163_ASCN.pdf
+01/06/2011 16:25:26 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3164_ASCO.pdf
+01/06/2011 16:25:26 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3165_ASCP.pdf
+01/06/2011 16:25:26 : Creating Index
+01/06/2011 16:25:27 :   Total PDF files in all directories : 16
+01/06/2011 16:25:27 :   Total PDF attachments : 0
+01/06/2011 16:25:27 :   Total new files : 16
+01/06/2011 16:25:27 :   Total pages indexed : 265
+01/06/2011 16:25:27 :   Total number of files skipped : 0
+01/06/2011 16:25:27 :   Total deleted files : 0
+01/06/2011 16:25:27 : Index build successful.
+
+19/10/2012 15:40:44 : Starting rebuild of Index : R:\Data\documentation\Indexes\External Documentation Index.pdx
+19/10/2012 15:40:44 : Deleting files from current index
+19/10/2012 15:40:44 : Deleting : R:\Data\documentation\Indexes\External Documentation Index\index.idx
+19/10/2012 15:40:44 : Deleting : R:\Data\documentation\Indexes\External Documentation Index\index1.idx
+19/10/2012 15:40:45 : Searching : R:\Data\documentation\built_pdf\External\Education\
+19/10/2012 15:40:46 : Indexing 16 files
+19/10/2012 15:40:46 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3101_SATS.pdf
+19/10/2012 15:40:47 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3102_KS2.pdf
+19/10/2012 15:40:48 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3103_KS3.pdf
+19/10/2012 15:40:49 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3104_KS4.pdf
+19/10/2012 15:40:50 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3104_PLASC.pdf
+19/10/2012 15:40:51 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3157_ASCG.pdf
+19/10/2012 15:40:51 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3158_ASCH.pdf
+19/10/2012 15:40:51 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3160_ASCK.pdf
+19/10/2012 15:40:51 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3161_ASCL.pdf
+19/10/2012 15:40:52 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3163_ASCN.pdf
+19/10/2012 15:40:52 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3164_ASCO.pdf
+19/10/2012 15:40:52 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3166_ASCQ.pdf
+19/10/2012 15:40:52 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3156_ASCF.pdf
+19/10/2012 15:40:52 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3159_ASCJ.pdf
+19/10/2012 15:40:52 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3162_ASCM.pdf
+19/10/2012 15:40:52 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3165_ASCP.pdf
+19/10/2012 15:40:52 : Creating Index
+19/10/2012 15:40:54 :   Total PDF files in all directories : 16
+19/10/2012 15:40:54 :   Total PDF attachments : 0
+19/10/2012 15:40:54 :   Total new files : 16
+19/10/2012 15:40:54 :   Total pages indexed : 323
+19/10/2012 15:40:54 :   Total number of files skipped : 0
+19/10/2012 15:40:54 :   Total deleted files : 0
+19/10/2012 15:40:54 : Index build successful.
+
+27/11/2017 13:00:44 : Starting rebuild of Index : R:\Data\documentation\Indexes\External Documentation Index.pdx
+27/11/2017 13:00:44 : Deleting files from current index
+27/11/2017 13:00:44 : Deleting : R:\Data\documentation\Indexes\External Documentation Index\index.idx
+27/11/2017 13:00:44 : Deleting : R:\Data\documentation\Indexes\External Documentation Index\index1.idx
+27/11/2017 13:00:44 : Searching : R:\Data\documentation\built_pdf\External\Education\
+27/11/2017 13:00:44 : Indexing 17 files
+27/11/2017 13:00:44 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3104_PLASC.pdf
+27/11/2017 13:00:45 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3103_KS3.pdf
+27/11/2017 13:00:46 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3101_SATS.pdf
+27/11/2017 13:00:46 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3102_KS2.pdf
+27/11/2017 13:00:47 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3160_ASCK.pdf
+27/11/2017 13:00:47 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3163_ASCN.pdf
+27/11/2017 13:00:47 : Extracting : R:\Data\documentation\built_pdf\External\Education\KS5.pdf
+27/11/2017 13:00:47 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3159_ASCJ.pdf
+27/11/2017 13:00:47 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3157_ASCG.pdf
+27/11/2017 13:00:48 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3165_ASCP.pdf
+27/11/2017 13:00:48 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3166_ASCQ.pdf
+27/11/2017 13:00:48 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3158_ASCH.pdf
+27/11/2017 13:00:48 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3104_KS4.pdf
+27/11/2017 13:00:49 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3164_ASCO.pdf
+27/11/2017 13:00:49 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3162_ASCM.pdf
+27/11/2017 13:00:49 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3161_ASCL.pdf
+27/11/2017 13:00:49 : Extracting : R:\Data\documentation\built_pdf\External\Education\D3156_ASCF.pdf
+27/11/2017 13:00:49 : Creating Index
+27/11/2017 13:00:50 :   Total PDF files in all directories : 17
+27/11/2017 13:00:50 :   Total PDF attachments : 0
+27/11/2017 13:00:50 :   Total new files : 17
+27/11/2017 13:00:50 :   Total pages indexed : 346
+27/11/2017 13:00:50 :   Total number of files skipped : 0
+27/11/2017 13:00:50 :   Total deleted files : 0
+27/11/2017 13:00:50 : Index build successful.
+
+12/11/2018 08:58:49 : Starting build of Index : R:\Data\documentation\built_pdf\Indexes\External Documentation Index.pdx
+12/11/2018 08:58:49 : Searching : R:\Data\documentation\built_pdf\built_pdf\External\Education\
+12/11/2018 08:58:49 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\External\Education\
+12/11/2018 08:58:49 : Deleting 17 files
+12/11/2018 08:58:49 :   Total PDF files in all directories : 0
+12/11/2018 08:58:49 :   Total PDF attachments : 0
+12/11/2018 08:58:49 :   Total new files : 0
+12/11/2018 08:58:49 :   Total pages indexed : 0
+12/11/2018 08:58:49 :   Total number of files skipped : 0
+12/11/2018 08:58:49 :   Total deleted files : 17
+12/11/2018 08:58:49 : Index build successful.

@@ -1,0 +1,334 @@
+25/01/2010 12:38:36 : Starting build.
+25/01/2010 12:38:36 : Searching : R:\data\documentation\quest_pdf\partner\
+25/01/2010 12:38:36 : Indexing 15 files
+25/01/2010 12:38:36 : Extracting : R:\data\documentation\quest_pdf\partner\ques_p01__you_and_your_environment.pdf
+25/01/2010 12:38:37 : Extracting : R:\data\documentation\quest_pdf\partner\ques_p02__partners_questionnaire.pdf
+25/01/2010 12:38:37 : Extracting : R:\data\documentation\quest_pdf\partner\ques_p03__being_a_father.pdf
+25/01/2010 12:38:38 : Extracting : R:\data\documentation\quest_pdf\partner\ques_p04__the_baby_and_me.pdf
+25/01/2010 12:38:38 : Extracting : R:\data\documentation\quest_pdf\partner\ques_p05__a_toddler_in_the_house.pdf
+25/01/2010 12:38:39 : Extracting : R:\data\documentation\quest_pdf\partner\ques_p06__partners_health_events_and_feelings.pdf
+25/01/2010 12:38:40 : Extracting : R:\data\documentation\quest_pdf\partner\ques_p07__partners_new_questionnaire.pdf
+25/01/2010 12:38:41 : Extracting : R:\data\documentation\quest_pdf\partner\ques_p08__study_partners_questionnaire.pdf
+25/01/2010 12:38:41 : Extracting : R:\data\documentation\quest_pdf\partner\ques_p09__partners_lifestyle.pdf
+25/01/2010 12:38:42 : Extracting : R:\data\documentation\quest_pdf\partner\ques_p10__partner_and_home.pdf
+25/01/2010 12:38:43 : Extracting : R:\data\documentation\quest_pdf\partner\ques_p11__father_and_family.pdf
+25/01/2010 12:38:44 : Extracting : R:\data\documentation\quest_pdf\partner\ques_p12__father_of_a_9_year_old.pdf
+25/01/2010 12:38:45 : Extracting : R:\data\documentation\quest_pdf\partner\ques_p13__surroundings_of_husband_partner.pdf
+25/01/2010 12:38:46 : Extracting : R:\data\documentation\quest_pdf\partner\ques_p14__lifestyle_and_health_of_partner.pdf
+25/01/2010 12:38:47 : Extracting : R:\data\documentation\quest_pdf\partner\ques_p15__partner_about_me.pdf
+25/01/2010 12:38:48 : Creating Index
+25/01/2010 12:38:50 :   Total PDF files in all directories : 15
+25/01/2010 12:38:50 :   Total new files : 15
+25/01/2010 12:38:50 :   Total pages indexed : 563
+25/01/2010 12:38:50 :   Total number of files skipped : 0
+25/01/2010 12:38:50 :   Total deleted files : 0
+25/01/2010 12:38:50 : Index build successful.
+
+12/02/2010 13:50:16 : Starting build.
+12/02/2010 13:50:16 : Searching : R:\data\documentation\quest_pdf\Quest\Partner\
+12/02/2010 13:50:16 : Indexing 16 files
+12/02/2010 13:50:16 : Deleting 15 files
+12/02/2010 13:50:16 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1201_PA.pdf
+12/02/2010 13:50:17 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1202_PB.pdf
+12/02/2010 13:50:18 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1203_PC.pdf
+12/02/2010 13:50:18 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1204_PD.pdf
+12/02/2010 13:50:18 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1205_PE.pdf
+12/02/2010 13:50:19 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1206_PF.pdf
+12/02/2010 13:50:20 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1207_PG.pdf
+12/02/2010 13:50:21 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1208_PH.pdf
+12/02/2010 13:50:21 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1209_PJ.pdf
+12/02/2010 13:50:22 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1210_PK.pdf
+12/02/2010 13:50:23 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1211_PL.pdf
+12/02/2010 13:50:24 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1212_PM.pdf
+12/02/2010 13:50:25 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1213_PN.pdf
+12/02/2010 13:50:26 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1214_PP.pdf
+12/02/2010 13:50:27 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1215_PQ.pdf
+12/02/2010 13:50:28 : Extracting : R:\data\documentation\quest_pdf\Quest\Partner\Q1250_PXA.pdf
+12/02/2010 13:50:28 : Creating Index
+12/02/2010 13:50:30 :   Total PDF files in all directories : 16
+12/02/2010 13:50:30 :   Total new files : 16
+12/02/2010 13:50:30 :   Total pages indexed : 579
+12/02/2010 13:50:30 :   Total number of files skipped : 0
+12/02/2010 13:50:30 :   Total deleted files : 15
+12/02/2010 13:50:30 : Index build successful.
+
+26/03/2012 14:53:25 : Starting rebuild of Index : R:\Data\documentation\Indexes\Partner_Questionnaire_Index.pdx
+26/03/2012 14:53:25 : Deleting files from current index
+26/03/2012 14:53:25 : Deleting : R:\Data\documentation\Indexes\Partner_Questionnaire_Index\index.idx
+26/03/2012 14:53:25 : Deleting : R:\Data\documentation\Indexes\Partner_Questionnaire_Index\index1.idx
+26/03/2012 14:53:25 : Deleting : R:\Data\documentation\Indexes\Partner_Questionnaire_Index\index2.idx
+26/03/2012 14:53:25 : Searching : R:\Data\documentation\quest_pdf\Quest\Partner\
+26/03/2012 14:53:26 : Indexing 16 files
+26/03/2012 14:53:26 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1201_PA.pdf
+26/03/2012 14:53:26 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1202_PB.pdf
+26/03/2012 14:53:26 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1203_PC.pdf
+26/03/2012 14:53:27 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1204_PD.pdf
+26/03/2012 14:53:27 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1205_PE.pdf
+26/03/2012 14:53:27 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1206_PF.pdf
+26/03/2012 14:53:27 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1207_PG.pdf
+26/03/2012 14:53:28 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1208_PH.pdf
+26/03/2012 14:53:28 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1209_PJ.pdf
+26/03/2012 14:53:28 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1210_PK.pdf
+26/03/2012 14:53:29 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1211_PL.pdf
+26/03/2012 14:53:29 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1212_PM.pdf
+26/03/2012 14:53:29 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1213_PN.pdf
+26/03/2012 14:53:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1214_PP.pdf
+26/03/2012 14:53:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1215_PQ.pdf
+26/03/2012 14:53:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1250_PXA.pdf
+26/03/2012 14:53:31 : Creating Index
+26/03/2012 14:53:33 :   Total PDF files in all directories : 16
+26/03/2012 14:53:33 :   Total PDF attachments : 0
+26/03/2012 14:53:33 :   Total new files : 16
+26/03/2012 14:53:33 :   Total pages indexed : 579
+26/03/2012 14:53:33 :   Total number of files skipped : 0
+26/03/2012 14:53:33 :   Total deleted files : 0
+26/03/2012 14:53:33 : Index build successful.
+
+19/10/2012 15:58:30 : Starting rebuild of Index : R:\Data\documentation\Indexes\Partner_Questionnaire_Index.pdx
+19/10/2012 15:58:30 : Deleting files from current index
+19/10/2012 15:58:30 : Deleting : R:\Data\documentation\Indexes\Partner_Questionnaire_Index\index.idx
+19/10/2012 15:58:30 : Deleting : R:\Data\documentation\Indexes\Partner_Questionnaire_Index\index1.idx
+19/10/2012 15:58:30 : Searching : R:\Data\documentation\quest_pdf\Quest\Partner\
+19/10/2012 15:58:31 : Indexing 16 files
+19/10/2012 15:58:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1201_PA.pdf
+19/10/2012 15:58:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1202_PB.pdf
+19/10/2012 15:58:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1203_PC.pdf
+19/10/2012 15:58:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1204_PD.pdf
+19/10/2012 15:58:32 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1205_PE.pdf
+19/10/2012 15:58:32 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1206_PF.pdf
+19/10/2012 15:58:32 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1207_PG.pdf
+19/10/2012 15:58:32 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1208_PH.pdf
+19/10/2012 15:58:33 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1209_PJ.pdf
+19/10/2012 15:58:33 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1210_PK.pdf
+19/10/2012 15:58:33 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1211_PL.pdf
+19/10/2012 15:58:34 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1212_PM.pdf
+19/10/2012 15:58:34 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1213_PN.pdf
+19/10/2012 15:58:35 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1214_PP.pdf
+19/10/2012 15:58:35 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1215_PQ.pdf
+19/10/2012 15:58:35 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1250_PXA.pdf
+19/10/2012 15:58:36 : Creating Index
+19/10/2012 15:58:37 :   Total PDF files in all directories : 16
+19/10/2012 15:58:37 :   Total PDF attachments : 0
+19/10/2012 15:58:37 :   Total new files : 16
+19/10/2012 15:58:37 :   Total pages indexed : 579
+19/10/2012 15:58:37 :   Total number of files skipped : 0
+19/10/2012 15:58:37 :   Total deleted files : 0
+19/10/2012 15:58:37 : Index build successful.
+
+27/09/2017 09:26:22 : Starting rebuild of Index : R:\Data\documentation\Indexes\Partner_Questionnaire_Index.pdx
+27/09/2017 09:26:22 : Deleting files from current index
+27/09/2017 09:26:22 : Deleting : R:\Data\documentation\Indexes\Partner_Questionnaire_Index\index.idx
+27/09/2017 09:26:22 : Deleting : R:\Data\documentation\Indexes\Partner_Questionnaire_Index\index1.idx
+27/09/2017 09:26:22 : Searching : R:\Data\documentation\quest_pdf\Quest\Partner\
+27/09/2017 09:26:23 : Indexing 16 files
+27/09/2017 09:26:23 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1201_PA.pdf
+27/09/2017 09:26:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1202_PB.pdf
+27/09/2017 09:26:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1203_PC.pdf
+27/09/2017 09:26:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1204_PD.pdf
+27/09/2017 09:26:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1205_PE.pdf
+27/09/2017 09:26:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1206_PF.pdf
+27/09/2017 09:26:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1207_PG.pdf
+27/09/2017 09:26:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1208_PH.pdf
+27/09/2017 09:26:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1209_PJ.pdf
+27/09/2017 09:26:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1210_PK.pdf
+27/09/2017 09:26:26 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1211_PL.pdf
+27/09/2017 09:26:26 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1212_PM.pdf
+27/09/2017 09:26:26 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1213_PN.pdf
+27/09/2017 09:26:27 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1214_PP.pdf
+27/09/2017 09:26:27 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1215_PQ.pdf
+27/09/2017 09:26:27 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1250_PXA.pdf
+27/09/2017 09:26:28 : Creating Index
+27/09/2017 09:26:29 :   Total PDF files in all directories : 16
+27/09/2017 09:26:29 :   Total PDF attachments : 0
+27/09/2017 09:26:29 :   Total new files : 16
+27/09/2017 09:26:29 :   Total pages indexed : 579
+27/09/2017 09:26:29 :   Total number of files skipped : 0
+27/09/2017 09:26:29 :   Total deleted files : 0
+27/09/2017 09:26:29 : Index build successful.
+
+27/11/2017 14:12:49 : Starting rebuild of Index : R:\Data\documentation\Indexes\Partner_Questionnaire_Index.pdx
+27/11/2017 14:12:49 : Deleting files from current index
+27/11/2017 14:12:49 : Deleting : R:\Data\documentation\Indexes\Partner_Questionnaire_Index\index.idx
+27/11/2017 14:12:49 : Deleting : R:\Data\documentation\Indexes\Partner_Questionnaire_Index\index1.idx
+27/11/2017 14:12:49 : Searching : R:\Data\documentation\quest_pdf\Quest\Partner\
+27/11/2017 14:12:50 : Indexing 16 files
+27/11/2017 14:12:50 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1250_PXA.pdf
+27/11/2017 14:12:50 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1211_PL.pdf
+27/11/2017 14:12:50 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1207_PG.pdf
+27/11/2017 14:12:50 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1210_PK.pdf
+27/11/2017 14:12:51 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1214_PP.pdf
+27/11/2017 14:12:51 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1206_PF.pdf
+27/11/2017 14:12:51 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1209_PJ.pdf
+27/11/2017 14:12:52 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1213_PN.pdf
+27/11/2017 14:12:52 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1203_PC.pdf
+27/11/2017 14:12:52 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1215_PQ.pdf
+27/11/2017 14:12:52 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1201_PA.pdf
+27/11/2017 14:12:52 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1205_PE.pdf
+27/11/2017 14:12:52 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1208_PH.pdf
+27/11/2017 14:12:53 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1212_PM.pdf
+27/11/2017 14:12:53 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1204_PD.pdf
+27/11/2017 14:12:53 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1202_PB.pdf
+27/11/2017 14:12:53 : Creating Index
+27/11/2017 14:12:54 :   Total PDF files in all directories : 16
+27/11/2017 14:12:54 :   Total PDF attachments : 0
+27/11/2017 14:12:54 :   Total new files : 16
+27/11/2017 14:12:54 :   Total pages indexed : 579
+27/11/2017 14:12:54 :   Total number of files skipped : 0
+27/11/2017 14:12:54 :   Total deleted files : 0
+27/11/2017 14:12:54 : Index build successful.
+
+10/05/2018 17:36:22 : Starting rebuild of Index : R:\Data\documentation\Indexes\Partner_Questionnaire_Index.pdx
+10/05/2018 17:36:22 : Deleting files from current index
+10/05/2018 17:36:22 : Deleting : R:\Data\documentation\Indexes\Partner_Questionnaire_Index\index.idx
+10/05/2018 17:36:22 : Deleting : R:\Data\documentation\Indexes\Partner_Questionnaire_Index\index1.idx
+10/05/2018 17:36:22 : Searching : R:\Data\documentation\quest_pdf\Quest\Partner\
+10/05/2018 17:36:22 : Indexing 16 files
+10/05/2018 17:36:22 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1250_PXA.pdf
+10/05/2018 17:36:22 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1211_PL.pdf
+10/05/2018 17:36:23 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1207_PG.pdf
+10/05/2018 17:36:23 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1210_PK.pdf
+10/05/2018 17:36:23 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1214_PP.pdf
+10/05/2018 17:36:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1206_PF.pdf
+10/05/2018 17:36:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1209_PJ.pdf
+10/05/2018 17:36:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1213_PN.pdf
+10/05/2018 17:36:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1203_PC.pdf
+10/05/2018 17:36:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1215_PQ.pdf
+10/05/2018 17:36:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1201_PA.pdf
+10/05/2018 17:36:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1205_PE.pdf
+10/05/2018 17:36:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1208_PH.pdf
+10/05/2018 17:36:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1212_PM.pdf
+10/05/2018 17:36:26 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1204_PD.pdf
+10/05/2018 17:36:26 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1202_PB.pdf
+10/05/2018 17:36:26 : Creating Index
+10/05/2018 17:36:27 :   Total PDF files in all directories : 16
+10/05/2018 17:36:27 :   Total PDF attachments : 0
+10/05/2018 17:36:27 :   Total new files : 16
+10/05/2018 17:36:27 :   Total pages indexed : 579
+10/05/2018 17:36:27 :   Total number of files skipped : 0
+10/05/2018 17:36:27 :   Total deleted files : 0
+10/05/2018 17:36:27 : Index build successful.
+
+09/11/2018 14:44:17 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Partner_Questionnaire_Index.pdx
+09/11/2018 14:44:17 : Deleting files from current index
+09/11/2018 14:44:17 : Deleting : R:\Data\documentation\built_pdf\Indexes\Partner_Questionnaire_Index\index.idx
+09/11/2018 14:44:17 : Deleting : R:\Data\documentation\built_pdf\Indexes\Partner_Questionnaire_Index\index1.idx
+09/11/2018 14:44:17 : Searching : R:\Data\documentation\built_pdf\quest_pdf\Quest\Partner\
+09/11/2018 14:44:17 : Could not locate folder : R:\Data\documentation\built_pdf\quest_pdf\Quest\Partner\
+09/11/2018 14:44:17 : No new or changed files found
+09/11/2018 14:44:17 :   Total PDF files in all directories : 0
+09/11/2018 14:44:17 :   Total PDF attachments : 0
+09/11/2018 14:44:17 :   Total new files : 0
+09/11/2018 14:44:17 :   Total pages indexed : 0
+09/11/2018 14:44:17 :   Total number of files skipped : 0
+09/11/2018 14:44:17 :   Total deleted files : 0
+09/11/2018 14:44:17 : Index build successful.
+
+12/11/2018 08:59:17 : Starting build of Index : R:\Data\documentation\built_pdf\Indexes\Partner_Questionnaire_Index.pdx
+12/11/2018 08:59:17 : Searching : R:\Data\documentation\built_pdf\quest_pdf\Quest\Partner\
+12/11/2018 08:59:17 : Could not locate folder : R:\Data\documentation\built_pdf\quest_pdf\Quest\Partner\
+12/11/2018 08:59:18 : No new or changed files found
+12/11/2018 08:59:18 :   Total PDF files in all directories : 0
+12/11/2018 08:59:18 :   Total PDF attachments : 0
+12/11/2018 08:59:18 :   Total new files : 0
+12/11/2018 08:59:18 :   Total pages indexed : 0
+12/11/2018 08:59:18 :   Total number of files skipped : 0
+12/11/2018 08:59:18 :   Total deleted files : 0
+12/11/2018 08:59:18 : Index build successful.
+
+12/11/2018 10:04:25 : Starting build of Index : R:\Data\documentation\built_pdf\Indexes\Partner_Questionnaire_Index.pdx
+12/11/2018 10:04:26 : Searching : R:\Data\documentation\quest_pdf\Quest\Father\
+12/11/2018 10:04:26 : Searching : R:\Data\documentation\quest_pdf\Quest\Partner\
+12/11/2018 10:04:26 : Indexing 17 files
+12/11/2018 10:04:26 : Extracting : R:\Data\documentation\quest_pdf\Quest\Father\Q1801_FA.pdf
+12/11/2018 10:04:27 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1250_PXA.pdf
+12/11/2018 10:04:27 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1211_PL.pdf
+12/11/2018 10:04:27 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1207_PG.pdf
+12/11/2018 10:04:28 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1210_PK.pdf
+12/11/2018 10:04:28 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1214_PP.pdf
+12/11/2018 10:04:29 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1206_PF.pdf
+12/11/2018 10:04:29 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1209_PJ.pdf
+12/11/2018 10:04:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1213_PN.pdf
+12/11/2018 10:04:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1203_PC.pdf
+12/11/2018 10:04:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1215_PQ.pdf
+12/11/2018 10:04:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1201_PA.pdf
+12/11/2018 10:04:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1205_PE.pdf
+12/11/2018 10:04:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1208_PH.pdf
+12/11/2018 10:04:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1212_PM.pdf
+12/11/2018 10:04:32 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1204_PD.pdf
+12/11/2018 10:04:32 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1202_PB.pdf
+12/11/2018 10:04:32 : Creating Index
+12/11/2018 10:04:33 :   Total PDF files in all directories : 17
+12/11/2018 10:04:33 :   Total PDF attachments : 0
+12/11/2018 10:04:33 :   Total new files : 17
+12/11/2018 10:04:33 :   Total pages indexed : 635
+12/11/2018 10:04:33 :   Total number of files skipped : 0
+12/11/2018 10:04:33 :   Total deleted files : 0
+12/11/2018 10:04:33 : Index build successful.
+
+06/02/2019 10:16:35 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Partner_Questionnaire_Index.pdx
+
+06/02/2019 10:17:21 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Partner_Questionnaire_Index.pdx
+06/02/2019 10:17:21 : Deleting files from current index
+06/02/2019 10:17:21 : Deleting : R:\Data\documentation\built_pdf\Indexes\Partner_Questionnaire_Index\index.idx
+06/02/2019 10:17:21 : Deleting : R:\Data\documentation\built_pdf\Indexes\Partner_Questionnaire_Index\index1.idx
+06/02/2019 10:17:21 : Searching : R:\Data\documentation\quest_pdf\Quest\Father\
+06/02/2019 10:17:21 : Searching : R:\Data\documentation\quest_pdf\Quest\Partner\
+06/02/2019 10:17:21 : Indexing 17 files
+06/02/2019 10:17:22 : Extracting : R:\Data\documentation\quest_pdf\Quest\Father\Q1801_FA.pdf
+06/02/2019 10:17:22 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1250_PXA.pdf
+06/02/2019 10:17:22 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1211_PL.pdf
+06/02/2019 10:17:23 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1207_PG.pdf
+06/02/2019 10:17:23 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1210_PK.pdf
+06/02/2019 10:17:23 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1214_PP.pdf
+06/02/2019 10:17:23 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1206_PF.pdf
+06/02/2019 10:17:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1209_PJ.pdf
+06/02/2019 10:17:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1213_PN.pdf
+06/02/2019 10:17:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1203_PC.pdf
+06/02/2019 10:17:24 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1215_PQ.pdf
+06/02/2019 10:17:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1201_PA.pdf
+06/02/2019 10:17:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1205_PE.pdf
+06/02/2019 10:17:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1208_PH.pdf
+06/02/2019 10:17:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1212_PM.pdf
+06/02/2019 10:17:25 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1204_PD.pdf
+06/02/2019 10:17:26 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1202_PB.pdf
+06/02/2019 10:17:26 : Creating Index
+06/02/2019 10:17:27 :   Total PDF files in all directories : 17
+06/02/2019 10:17:27 :   Total PDF attachments : 0
+06/02/2019 10:17:27 :   Total new files : 17
+06/02/2019 10:17:27 :   Total pages indexed : 635
+06/02/2019 10:17:27 :   Total number of files skipped : 0
+06/02/2019 10:17:27 :   Total deleted files : 0
+06/02/2019 10:17:27 : Index build successful.
+
+18/03/2019 10:23:27 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Partner_Questionnaire_Index.pdx
+18/03/2019 10:23:27 : Deleting files from current index
+18/03/2019 10:23:27 : Deleting : R:\Data\documentation\built_pdf\Indexes\Partner_Questionnaire_Index\index.idx
+18/03/2019 10:23:27 : Deleting : R:\Data\documentation\built_pdf\Indexes\Partner_Questionnaire_Index\index1.idx
+18/03/2019 10:23:27 : Searching : R:\Data\documentation\quest_pdf\Quest\Father\
+18/03/2019 10:23:27 : Searching : R:\Data\documentation\quest_pdf\Quest\Partner\
+18/03/2019 10:23:27 : Indexing 17 files
+18/03/2019 10:23:27 : Extracting : R:\Data\documentation\quest_pdf\Quest\Father\Q1801_FA.pdf
+18/03/2019 10:23:28 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1250_PXA.pdf
+18/03/2019 10:23:28 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1211_PL.pdf
+18/03/2019 10:23:28 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1207_PG.pdf
+18/03/2019 10:23:28 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1210_PK.pdf
+18/03/2019 10:23:29 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1214_PP.pdf
+18/03/2019 10:23:29 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1206_PF.pdf
+18/03/2019 10:23:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1209_PJ.pdf
+18/03/2019 10:23:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1213_PN.pdf
+18/03/2019 10:23:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1203_PC.pdf
+18/03/2019 10:23:30 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1215_PQ.pdf
+18/03/2019 10:23:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1201_PA.pdf
+18/03/2019 10:23:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1205_PE.pdf
+18/03/2019 10:23:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1208_PH.pdf
+18/03/2019 10:23:31 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1212_PM.pdf
+18/03/2019 10:23:32 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1204_PD.pdf
+18/03/2019 10:23:32 : Extracting : R:\Data\documentation\quest_pdf\Quest\Partner\Q1202_PB.pdf
+18/03/2019 10:23:32 : Creating Index
+18/03/2019 10:23:33 :   Total PDF files in all directories : 17
+18/03/2019 10:23:33 :   Total PDF attachments : 0
+18/03/2019 10:23:33 :   Total new files : 17
+18/03/2019 10:23:33 :   Total pages indexed : 635
+18/03/2019 10:23:33 :   Total number of files skipped : 0
+18/03/2019 10:23:33 :   Total deleted files : 0
+18/03/2019 10:23:33 : Index build successful.

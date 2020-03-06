@@ -1,0 +1,1005 @@
+25/01/2010 12:26:46 : Starting build.
+25/01/2010 12:26:46 : Searching : R:\data\documentation\built_pdf\mum\
+25/01/2010 12:26:47 : Indexing 19 files
+25/01/2010 12:26:47 : Extracting : R:\data\documentation\built_pdf\mum\a.pdf
+25/01/2010 12:26:52 : Extracting : R:\data\documentation\built_pdf\mum\b.pdf
+25/01/2010 12:27:02 : Extracting : R:\data\documentation\built_pdf\mum\c.pdf
+25/01/2010 12:27:12 : Extracting : R:\data\documentation\built_pdf\mum\d.pdf
+25/01/2010 12:27:21 : Extracting : R:\data\documentation\built_pdf\mum\e.pdf
+25/01/2010 12:27:28 : Extracting : R:\data\documentation\built_pdf\mum\f.pdf
+25/01/2010 12:27:34 : Extracting : R:\data\documentation\built_pdf\mum\g.pdf
+25/01/2010 12:27:42 : Extracting : R:\data\documentation\built_pdf\mum\h.pdf
+25/01/2010 12:27:58 : Extracting : R:\data\documentation\built_pdf\mum\j.pdf
+25/01/2010 12:28:05 : Extracting : R:\data\documentation\built_pdf\mum\k.pdf
+25/01/2010 12:28:14 : Extracting : R:\data\documentation\built_pdf\mum\l.pdf
+25/01/2010 12:28:22 : Extracting : R:\data\documentation\built_pdf\mum\m.pdf
+25/01/2010 12:28:33 : Extracting : R:\data\documentation\built_pdf\mum\ma.pdf
+25/01/2010 12:28:37 : Extracting : R:\data\documentation\built_pdf\mum\n.pdf
+25/01/2010 12:28:48 : Extracting : R:\data\documentation\built_pdf\mum\p.pdf
+25/01/2010 12:28:57 : Extracting : R:\data\documentation\built_pdf\mum\q.pdf
+25/01/2010 12:29:05 : Extracting : R:\data\documentation\built_pdf\mum\r.pdf
+25/01/2010 12:29:16 : Extracting : R:\data\documentation\built_pdf\mum\s.pdf
+25/01/2010 12:29:27 : Extracting : R:\data\documentation\built_pdf\mum\XA.pdf
+25/01/2010 12:29:33 : Creating Index
+25/01/2010 12:29:52 :   Total PDF files in all directories : 19
+25/01/2010 12:29:52 :   Total new files : 19
+25/01/2010 12:29:52 :   Total pages indexed : 4733
+25/01/2010 12:29:52 :   Total number of files skipped : 0
+25/01/2010 12:29:52 :   Total deleted files : 0
+25/01/2010 12:29:52 : Index build successful.
+
+12/02/2010 12:35:54 : Starting build.
+12/02/2010 12:35:54 : Searching : R:\data\documentation\built_pdf\Quest\Mother\
+12/02/2010 12:35:54 : Indexing 18 files
+12/02/2010 12:35:54 : Deleting 19 files
+12/02/2010 12:35:54 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+12/02/2010 12:36:00 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+12/02/2010 12:36:09 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+12/02/2010 12:36:19 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+12/02/2010 12:36:30 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+12/02/2010 12:36:37 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+12/02/2010 12:36:43 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+12/02/2010 12:36:51 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+12/02/2010 12:37:06 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+12/02/2010 12:37:13 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+12/02/2010 12:37:22 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+12/02/2010 12:37:30 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+12/02/2010 12:37:42 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+12/02/2010 12:37:54 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+12/02/2010 12:38:02 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+12/02/2010 12:38:10 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+12/02/2010 12:38:21 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+12/02/2010 12:38:33 : Extracting : R:\data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+12/02/2010 12:38:40 : Creating Index
+12/02/2010 12:38:59 :   Total PDF files in all directories : 18
+12/02/2010 12:38:59 :   Total new files : 18
+12/02/2010 12:38:59 :   Total pages indexed : 4537
+12/02/2010 12:38:59 :   Total number of files skipped : 0
+12/02/2010 12:38:59 :   Total deleted files : 19
+12/02/2010 12:38:59 : Index build successful.
+
+26/03/2012 14:47:56 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Documentation_Index.pdx
+26/03/2012 14:47:56 : Deleting files from current index
+26/03/2012 14:47:56 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index.idx
+26/03/2012 14:47:56 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index1.idx
+26/03/2012 14:47:57 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index2.idx
+26/03/2012 14:47:57 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+26/03/2012 14:47:59 : Indexing 19 files
+26/03/2012 14:47:59 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+26/03/2012 14:48:01 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+26/03/2012 14:48:05 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+26/03/2012 14:48:08 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+26/03/2012 14:48:12 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+26/03/2012 14:48:15 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+26/03/2012 14:48:17 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+26/03/2012 14:48:19 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+26/03/2012 14:48:25 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+26/03/2012 14:48:27 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+26/03/2012 14:48:31 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+26/03/2012 14:48:34 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+26/03/2012 14:48:42 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+26/03/2012 14:48:49 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+26/03/2012 14:48:53 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+26/03/2012 14:48:58 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+26/03/2012 14:49:08 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+26/03/2012 14:49:14 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+26/03/2012 14:49:17 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+26/03/2012 14:49:18 : Creating Index
+26/03/2012 14:49:27 :   Total PDF files in all directories : 19
+26/03/2012 14:49:27 :   Total PDF attachments : 0
+26/03/2012 14:49:27 :   Total new files : 19
+26/03/2012 14:49:27 :   Total pages indexed : 4559
+26/03/2012 14:49:27 :   Total number of files skipped : 0
+26/03/2012 14:49:27 :   Total deleted files : 0
+26/03/2012 14:49:27 : Index build successful.
+
+26/03/2012 15:04:14 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Documentation_Index.pdx
+26/03/2012 15:04:15 : Deleting files from current index
+26/03/2012 15:04:15 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index.idx
+26/03/2012 15:04:15 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index1.idx
+26/03/2012 15:04:15 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+26/03/2012 15:04:17 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+26/03/2012 15:04:17 : Indexing 20 files
+26/03/2012 15:04:17 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+26/03/2012 15:04:20 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+26/03/2012 15:04:23 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+26/03/2012 15:04:27 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+26/03/2012 15:04:31 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+26/03/2012 15:04:33 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+26/03/2012 15:04:35 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+26/03/2012 15:04:37 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+26/03/2012 15:04:42 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+26/03/2012 15:04:44 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+26/03/2012 15:04:48 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+26/03/2012 15:04:51 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+26/03/2012 15:04:56 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+26/03/2012 15:05:01 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+26/03/2012 15:05:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+26/03/2012 15:05:11 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+26/03/2012 15:05:16 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+26/03/2012 15:05:20 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+26/03/2012 15:05:23 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+26/03/2012 15:05:24 : Extracting : R:\Data\documentation\built_pdf\Clinic\Adult\D2110_TF3A.pdf
+26/03/2012 15:05:25 : Creating Index
+26/03/2012 15:05:37 :   Total PDF files in all directories : 20
+26/03/2012 15:05:37 :   Total PDF attachments : 0
+26/03/2012 15:05:37 :   Total new files : 20
+26/03/2012 15:05:37 :   Total pages indexed : 4608
+26/03/2012 15:05:37 :   Total number of files skipped : 0
+26/03/2012 15:05:37 :   Total deleted files : 0
+26/03/2012 15:05:37 : Index build successful.
+
+19/10/2012 15:45:55 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Documentation_Index.pdx
+19/10/2012 15:45:55 : Deleting files from current index
+19/10/2012 15:45:55 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index.idx
+19/10/2012 15:45:55 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index1.idx
+19/10/2012 15:45:55 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+19/10/2012 15:45:58 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+19/10/2012 15:45:58 : Indexing 21 files
+19/10/2012 15:45:58 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+19/10/2012 15:46:00 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+19/10/2012 15:46:04 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+19/10/2012 15:46:07 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+19/10/2012 15:46:11 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+19/10/2012 15:46:13 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+19/10/2012 15:46:15 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+19/10/2012 15:46:17 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+19/10/2012 15:46:23 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+19/10/2012 15:46:25 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+19/10/2012 15:46:30 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+19/10/2012 15:46:33 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+19/10/2012 15:46:37 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+19/10/2012 15:46:42 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+19/10/2012 15:46:45 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+19/10/2012 15:46:49 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+19/10/2012 15:46:57 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+19/10/2012 15:47:01 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+19/10/2012 15:47:04 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+19/10/2012 15:47:05 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1118_T.pdf
+19/10/2012 15:47:17 : Extracting : R:\Data\documentation\built_pdf\Clinic\Adult\D2110_TF3A.pdf
+19/10/2012 15:47:18 : Creating Index
+19/10/2012 15:47:28 :   Total PDF files in all directories : 21
+19/10/2012 15:47:28 :   Total PDF attachments : 0
+19/10/2012 15:47:28 :   Total new files : 21
+19/10/2012 15:47:28 :   Total pages indexed : 4989
+19/10/2012 15:47:28 :   Total number of files skipped : 0
+19/10/2012 15:47:28 :   Total deleted files : 0
+19/10/2012 15:47:28 : Index build successful.
+
+18/05/2014 16:42:02 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Documentation_Index.pdx
+18/05/2014 16:42:02 : Deleting files from current index
+18/05/2014 16:42:02 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index.idx
+18/05/2014 16:42:02 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index1.idx
+18/05/2014 16:42:02 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+18/05/2014 16:42:05 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+18/05/2014 16:42:05 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+18/05/2014 16:42:05 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Mother\
+18/05/2014 16:42:05 : Searching : R:\Data\documentation\built_pdf\Other\Obstetric\
+18/05/2014 16:42:06 : Searching : R:\Data\documentation\built_pdf\Other\Sample Definition\
+18/05/2014 16:42:06 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+18/05/2014 16:42:06 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+18/05/2014 16:42:06 : Indexing 29 files
+18/05/2014 16:42:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+18/05/2014 16:42:09 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+18/05/2014 16:42:13 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+18/05/2014 16:42:17 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+18/05/2014 16:42:21 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+18/05/2014 16:42:24 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+18/05/2014 16:42:26 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+18/05/2014 16:42:28 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+18/05/2014 16:42:35 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+18/05/2014 16:42:37 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+18/05/2014 16:42:41 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+18/05/2014 16:42:45 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+18/05/2014 16:42:50 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+18/05/2014 16:42:56 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+18/05/2014 16:42:59 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+18/05/2014 16:43:03 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+18/05/2014 16:43:09 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+18/05/2014 16:43:14 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+18/05/2014 16:43:16 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+18/05/2014 16:43:18 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1118_T.pdf
+18/05/2014 16:43:30 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\mum_sample_v1.pdf
+18/05/2014 16:43:31 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\mum_metabolomics_v1.pdf
+18/05/2014 16:43:31 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4200_OA.pdf
+18/05/2014 16:43:32 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4201_OB.pdf
+18/05/2014 16:43:39 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4202_OC.pdf
+18/05/2014 16:43:44 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_KZ.pdf
+18/05/2014 16:43:44 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_MZ.pdf
+18/05/2014 16:43:45 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+18/05/2014 16:43:45 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+18/05/2014 16:43:45 : Creating Index
+18/05/2014 16:43:58 :   Total PDF files in all directories : 29
+18/05/2014 16:43:58 :   Total PDF attachments : 0
+18/05/2014 16:43:58 :   Total new files : 29
+18/05/2014 16:43:58 :   Total pages indexed : 5552
+18/05/2014 16:43:58 :   Total number of files skipped : 0
+18/05/2014 16:43:58 :   Total deleted files : 0
+18/05/2014 16:43:58 : Index build successful.
+
+04/07/2014 10:18:39 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Documentation_Index.pdx
+04/07/2014 10:18:39 : Deleting files from current index
+04/07/2014 10:18:40 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index.idx
+04/07/2014 10:18:40 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index1.idx
+04/07/2014 10:18:40 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+04/07/2014 10:18:43 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+04/07/2014 10:18:44 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+04/07/2014 10:18:44 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Mother\
+04/07/2014 10:18:44 : Searching : R:\Data\documentation\built_pdf\Other\Obstetric\
+04/07/2014 10:18:45 : Searching : R:\Data\documentation\built_pdf\Other\Sample Definition\
+04/07/2014 10:18:46 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+04/07/2014 10:18:46 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+04/07/2014 10:18:46 : Indexing 29 files
+04/07/2014 10:18:46 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+04/07/2014 10:18:49 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+04/07/2014 10:18:52 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+04/07/2014 10:18:56 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+04/07/2014 10:19:01 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+04/07/2014 10:19:04 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+04/07/2014 10:19:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+04/07/2014 10:19:09 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+04/07/2014 10:19:15 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+04/07/2014 10:19:18 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+04/07/2014 10:19:22 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+04/07/2014 10:19:25 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+04/07/2014 10:19:31 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+04/07/2014 10:19:36 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+04/07/2014 10:19:41 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+04/07/2014 10:19:45 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+04/07/2014 10:19:50 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+04/07/2014 10:19:55 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+04/07/2014 10:19:58 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+04/07/2014 10:19:59 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1118_T.pdf
+04/07/2014 10:20:12 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\mum_sample_v1.pdf
+04/07/2014 10:20:13 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\mum_metabolomics_v1.pdf
+04/07/2014 10:20:14 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4200_OA.pdf
+04/07/2014 10:20:15 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4201_OB.pdf
+04/07/2014 10:20:23 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4202_OC.pdf
+04/07/2014 10:20:28 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_KZ.pdf
+04/07/2014 10:20:28 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_MZ.pdf
+04/07/2014 10:20:29 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+04/07/2014 10:20:29 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+04/07/2014 10:20:29 : Creating Index
+04/07/2014 10:20:43 :   Total PDF files in all directories : 29
+04/07/2014 10:20:43 :   Total PDF attachments : 0
+04/07/2014 10:20:43 :   Total new files : 29
+04/07/2014 10:20:43 :   Total pages indexed : 5552
+04/07/2014 10:20:43 :   Total number of files skipped : 0
+04/07/2014 10:20:43 :   Total deleted files : 0
+04/07/2014 10:20:43 : Index build successful.
+
+15/07/2014 12:13:56 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Documentation_Index.pdx
+15/07/2014 12:13:56 : Deleting files from current index
+15/07/2014 12:13:56 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index.idx
+15/07/2014 12:13:56 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index1.idx
+15/07/2014 12:13:56 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+15/07/2014 12:13:59 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+15/07/2014 12:13:59 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+15/07/2014 12:13:59 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Mother\
+15/07/2014 12:13:59 : Searching : R:\Data\documentation\built_pdf\Other\Obstetric\
+15/07/2014 12:14:00 : Searching : R:\Data\documentation\built_pdf\Other\Sample Definition\
+15/07/2014 12:14:01 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+15/07/2014 12:14:01 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+15/07/2014 12:14:01 : Indexing 30 files
+15/07/2014 12:14:01 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+15/07/2014 12:14:03 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+15/07/2014 12:14:07 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+15/07/2014 12:14:11 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+15/07/2014 12:14:15 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+15/07/2014 12:14:18 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+15/07/2014 12:14:20 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+15/07/2014 12:14:23 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+15/07/2014 12:14:29 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+15/07/2014 12:14:32 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+15/07/2014 12:14:36 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+15/07/2014 12:14:39 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+15/07/2014 12:14:45 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+15/07/2014 12:14:51 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+15/07/2014 12:14:54 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+15/07/2014 12:14:58 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+15/07/2014 12:15:04 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+15/07/2014 12:15:09 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+15/07/2014 12:15:11 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+15/07/2014 12:15:13 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1118_T.pdf
+15/07/2014 12:15:25 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1119_U.pdf
+15/07/2014 12:15:26 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\mum_sample_v1.pdf
+15/07/2014 12:15:27 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\mum_metabolomics_v1.pdf
+15/07/2014 12:15:27 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4200_OA.pdf
+15/07/2014 12:15:28 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4201_OB.pdf
+15/07/2014 12:15:36 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4202_OC.pdf
+15/07/2014 12:15:40 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_KZ.pdf
+15/07/2014 12:15:41 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_MZ.pdf
+15/07/2014 12:15:41 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+15/07/2014 12:15:41 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+15/07/2014 12:15:42 : Creating Index
+15/07/2014 12:15:55 :   Total PDF files in all directories : 30
+15/07/2014 12:15:55 :   Total PDF attachments : 0
+15/07/2014 12:15:55 :   Total new files : 30
+15/07/2014 12:15:55 :   Total pages indexed : 5619
+15/07/2014 12:15:55 :   Total number of files skipped : 0
+15/07/2014 12:15:55 :   Total deleted files : 0
+15/07/2014 12:15:55 : Index build successful.
+
+20/03/2015 15:01:18 : Starting build of Index : R:\Data\documentation\Indexes\Mother_Documentation_Index.pdx
+20/03/2015 15:01:19 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+20/03/2015 15:01:22 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+20/03/2015 15:01:22 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+20/03/2015 15:01:22 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Mother\
+20/03/2015 15:01:22 : Searching : R:\Data\documentation\built_pdf\Other\Obstetric\
+20/03/2015 15:01:23 : Searching : R:\Data\documentation\built_pdf\Other\Sample Definition\
+20/03/2015 15:01:23 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+20/03/2015 15:01:23 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+20/03/2015 15:01:23 : Indexing 3 files
+20/03/2015 15:01:23 : Deleting 3 files
+20/03/2015 15:01:23 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5705_mMetabolomics.pdf
+20/03/2015 15:01:24 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5702_mSamples.pdf
+20/03/2015 15:01:24 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+20/03/2015 15:01:25 : Creating Index
+20/03/2015 15:01:25 :   Total PDF files in all directories : 30
+20/03/2015 15:01:25 :   Total PDF attachments : 0
+20/03/2015 15:01:25 :   Total new files : 3
+20/03/2015 15:01:25 :   Total pages indexed : 41
+20/03/2015 15:01:25 :   Total number of files skipped : 0
+20/03/2015 15:01:25 :   Total deleted files : 3
+20/03/2015 15:01:25 : Index build successful.
+
+27/11/2017 13:01:21 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Documentation_Index.pdx
+27/11/2017 13:01:21 : Deleting files from current index
+27/11/2017 13:01:21 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index.idx
+27/11/2017 13:01:21 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index1.idx
+27/11/2017 13:01:21 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index2.idx
+27/11/2017 13:01:21 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+27/11/2017 13:01:25 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+27/11/2017 13:01:25 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+27/11/2017 13:01:25 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Mother\
+27/11/2017 13:01:25 : Searching : R:\Data\documentation\built_pdf\Other\Obstetric\
+27/11/2017 13:01:25 : Searching : R:\Data\documentation\built_pdf\Other\Sample Definition\
+27/11/2017 13:01:26 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+27/11/2017 13:01:26 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+27/11/2017 13:01:26 : Indexing 30 files
+27/11/2017 13:01:26 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+27/11/2017 13:01:28 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+27/11/2017 13:01:30 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+27/11/2017 13:01:34 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+27/11/2017 13:01:42 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+27/11/2017 13:01:45 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+27/11/2017 13:01:48 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1118_T.pdf
+27/11/2017 13:01:56 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+27/11/2017 13:01:59 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+27/11/2017 13:02:00 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+27/11/2017 13:02:03 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+27/11/2017 13:02:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+27/11/2017 13:02:16 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+27/11/2017 13:02:19 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+27/11/2017 13:02:21 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+27/11/2017 13:02:24 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+27/11/2017 13:02:27 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+27/11/2017 13:02:28 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+27/11/2017 13:02:29 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+27/11/2017 13:02:31 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1119_U.pdf
+27/11/2017 13:02:32 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+27/11/2017 13:02:36 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5702_mSamples.pdf
+27/11/2017 13:02:36 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5705_mMetabolomics.pdf
+27/11/2017 13:02:37 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4200_OA.pdf
+27/11/2017 13:02:37 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4202_OC.pdf
+27/11/2017 13:02:40 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4201_OB.pdf
+27/11/2017 13:02:45 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_MZ.pdf
+27/11/2017 13:02:45 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_KZ.pdf
+27/11/2017 13:02:46 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+27/11/2017 13:02:46 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+27/11/2017 13:02:46 : Creating Index
+27/11/2017 13:02:58 :   Total PDF files in all directories : 30
+27/11/2017 13:02:58 :   Total PDF attachments : 0
+27/11/2017 13:02:58 :   Total new files : 30
+27/11/2017 13:02:58 :   Total pages indexed : 5621
+27/11/2017 13:02:58 :   Total number of files skipped : 0
+27/11/2017 13:02:58 :   Total deleted files : 0
+27/11/2017 13:02:58 : Index build successful.
+
+07/02/2018 15:51:57 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Documentation_Index.pdx
+07/02/2018 15:51:57 : Deleting files from current index
+07/02/2018 15:51:57 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index.idx
+07/02/2018 15:51:57 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index1.idx
+07/02/2018 15:51:57 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+07/02/2018 15:52:00 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+07/02/2018 15:52:00 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+07/02/2018 15:52:00 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Mother\
+07/02/2018 15:52:00 : Searching : R:\Data\documentation\built_pdf\Other\Obstetric\
+07/02/2018 15:52:01 : Searching : R:\Data\documentation\built_pdf\Other\Sample Definition\
+07/02/2018 15:52:01 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+07/02/2018 15:52:01 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+07/02/2018 15:52:01 : Indexing 30 files
+07/02/2018 15:52:01 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+07/02/2018 15:52:03 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+07/02/2018 15:52:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+07/02/2018 15:52:09 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+07/02/2018 15:52:18 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+07/02/2018 15:52:22 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+07/02/2018 15:52:25 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1118_T.pdf
+07/02/2018 15:52:33 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+07/02/2018 15:52:36 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+07/02/2018 15:52:38 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+07/02/2018 15:52:41 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+07/02/2018 15:52:44 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+07/02/2018 15:52:56 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+07/02/2018 15:52:58 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+07/02/2018 15:53:01 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+07/02/2018 15:53:04 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+07/02/2018 15:53:07 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+07/02/2018 15:53:08 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+07/02/2018 15:53:10 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+07/02/2018 15:53:12 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1119_U.pdf
+07/02/2018 15:53:13 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+07/02/2018 15:53:16 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5702_mSamples.pdf
+07/02/2018 15:53:17 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5705_mMetabolomics.pdf
+07/02/2018 15:53:17 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4200_OA.pdf
+07/02/2018 15:53:18 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4202_OC.pdf
+07/02/2018 15:53:21 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4201_OB.pdf
+07/02/2018 15:53:26 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_MZ.pdf
+07/02/2018 15:53:26 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_KZ.pdf
+07/02/2018 15:53:27 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+07/02/2018 15:53:27 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+07/02/2018 15:53:27 : Creating Index
+07/02/2018 15:53:34 :   Total PDF files in all directories : 30
+07/02/2018 15:53:34 :   Total PDF attachments : 0
+07/02/2018 15:53:34 :   Total new files : 30
+07/02/2018 15:53:34 :   Total pages indexed : 5621
+07/02/2018 15:53:34 :   Total number of files skipped : 0
+07/02/2018 15:53:34 :   Total deleted files : 0
+07/02/2018 15:53:34 : Index build successful.
+
+12/04/2018 11:44:58 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Documentation_Index.pdx
+12/04/2018 11:44:58 : Deleting files from current index
+12/04/2018 11:44:58 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index.idx
+12/04/2018 11:44:58 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index1.idx
+12/04/2018 11:44:58 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+12/04/2018 11:45:01 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+12/04/2018 11:45:01 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+12/04/2018 11:45:01 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Mother\
+12/04/2018 11:45:01 : Searching : R:\Data\documentation\built_pdf\Other\Obstetric\
+12/04/2018 11:45:02 : Searching : R:\Data\documentation\built_pdf\Other\Sample Definition\
+12/04/2018 11:45:02 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+12/04/2018 11:45:02 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+12/04/2018 11:45:02 : Indexing 30 files
+12/04/2018 11:45:02 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+12/04/2018 11:45:05 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+12/04/2018 11:45:07 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+12/04/2018 11:45:10 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+12/04/2018 11:45:19 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+12/04/2018 11:45:23 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+12/04/2018 11:45:26 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1118_T.pdf
+12/04/2018 11:45:34 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+12/04/2018 11:45:37 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+12/04/2018 11:45:39 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+12/04/2018 11:45:41 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+12/04/2018 11:45:44 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+12/04/2018 11:45:55 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+12/04/2018 11:45:57 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+12/04/2018 11:45:59 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+12/04/2018 11:46:03 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+12/04/2018 11:46:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+12/04/2018 11:46:07 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+12/04/2018 11:46:08 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+12/04/2018 11:46:10 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1119_U.pdf
+12/04/2018 11:46:11 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+12/04/2018 11:46:15 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5702_mSamples.pdf
+12/04/2018 11:46:15 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5705_mMetabolomics.pdf
+12/04/2018 11:46:16 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4200_OA.pdf
+12/04/2018 11:46:16 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4202_OC.pdf
+12/04/2018 11:46:20 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4201_OB.pdf
+12/04/2018 11:46:25 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_MZ.pdf
+12/04/2018 11:46:25 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_KZ.pdf
+12/04/2018 11:46:25 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+12/04/2018 11:46:26 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+12/04/2018 11:46:26 : Creating Index
+12/04/2018 11:46:32 :   Total PDF files in all directories : 30
+12/04/2018 11:46:32 :   Total PDF attachments : 0
+12/04/2018 11:46:32 :   Total new files : 30
+12/04/2018 11:46:32 :   Total pages indexed : 5621
+12/04/2018 11:46:32 :   Total number of files skipped : 0
+12/04/2018 11:46:32 :   Total deleted files : 0
+12/04/2018 11:46:32 : Index build successful.
+
+02/05/2018 12:09:24 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Documentation_Index.pdx
+02/05/2018 12:09:24 : Deleting files from current index
+02/05/2018 12:09:24 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index.idx
+02/05/2018 12:09:24 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index1.idx
+02/05/2018 12:09:24 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+02/05/2018 12:09:27 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+02/05/2018 12:09:27 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+02/05/2018 12:09:27 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Mother\
+02/05/2018 12:09:27 : Searching : R:\Data\documentation\built_pdf\Other\Obstetric\
+02/05/2018 12:09:27 : Searching : R:\Data\documentation\built_pdf\Other\Sample Definition\
+02/05/2018 12:09:27 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+02/05/2018 12:09:27 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+02/05/2018 12:09:27 : Indexing 30 files
+02/05/2018 12:09:27 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+02/05/2018 12:09:30 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+02/05/2018 12:09:32 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+02/05/2018 12:09:36 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+02/05/2018 12:09:46 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+02/05/2018 12:09:50 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+02/05/2018 12:09:53 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1118_T.pdf
+02/05/2018 12:10:01 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+02/05/2018 12:10:04 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+02/05/2018 12:10:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+02/05/2018 12:10:09 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+02/05/2018 12:10:12 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+02/05/2018 12:10:24 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+02/05/2018 12:10:26 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+02/05/2018 12:10:28 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+02/05/2018 12:10:32 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+02/05/2018 12:10:36 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+02/05/2018 12:10:36 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+02/05/2018 12:10:38 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+02/05/2018 12:10:40 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1119_U.pdf
+02/05/2018 12:10:41 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+02/05/2018 12:10:45 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5702_mSamples.pdf
+02/05/2018 12:10:46 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5705_mMetabolomics.pdf
+02/05/2018 12:10:46 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4200_OA.pdf
+02/05/2018 12:10:47 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4202_OC.pdf
+02/05/2018 12:10:50 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4201_OB.pdf
+02/05/2018 12:10:55 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_MZ.pdf
+02/05/2018 12:10:55 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_KZ.pdf
+02/05/2018 12:10:55 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+02/05/2018 12:10:55 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+02/05/2018 12:10:55 : Creating Index
+02/05/2018 12:11:02 :   Total PDF files in all directories : 30
+02/05/2018 12:11:02 :   Total PDF attachments : 0
+02/05/2018 12:11:02 :   Total new files : 30
+02/05/2018 12:11:02 :   Total pages indexed : 5621
+02/05/2018 12:11:02 :   Total number of files skipped : 0
+02/05/2018 12:11:02 :   Total deleted files : 0
+02/05/2018 12:11:02 : Index build successful.
+
+10/05/2018 16:59:03 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Documentation_Index.pdx
+10/05/2018 16:59:03 : Deleting files from current index
+10/05/2018 16:59:03 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index.idx
+10/05/2018 16:59:03 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index1.idx
+10/05/2018 16:59:03 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+10/05/2018 16:59:06 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+10/05/2018 16:59:06 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+10/05/2018 16:59:06 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Mother\
+10/05/2018 16:59:06 : Searching : R:\Data\documentation\built_pdf\Other\Obstetric\
+10/05/2018 16:59:06 : Searching : R:\Data\documentation\built_pdf\Other\Sample Definition\
+10/05/2018 16:59:06 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+10/05/2018 16:59:06 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+10/05/2018 16:59:06 : Indexing 30 files
+10/05/2018 16:59:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+10/05/2018 16:59:09 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+10/05/2018 16:59:11 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+10/05/2018 16:59:14 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+10/05/2018 16:59:23 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+10/05/2018 16:59:27 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+10/05/2018 16:59:29 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1118_T.pdf
+10/05/2018 16:59:37 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+10/05/2018 16:59:40 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+10/05/2018 16:59:41 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+10/05/2018 16:59:44 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+10/05/2018 16:59:47 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+10/05/2018 16:59:58 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+10/05/2018 17:00:00 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+10/05/2018 17:00:02 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+10/05/2018 17:00:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+10/05/2018 17:00:09 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+10/05/2018 17:00:09 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+10/05/2018 17:00:11 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+10/05/2018 17:00:13 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1119_U.pdf
+10/05/2018 17:00:13 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+10/05/2018 17:00:17 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5702_mSamples.pdf
+10/05/2018 17:00:17 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5705_mMetabolomics.pdf
+10/05/2018 17:00:18 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4200_OA.pdf
+10/05/2018 17:00:18 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4202_OC.pdf
+10/05/2018 17:00:21 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4201_OB.pdf
+10/05/2018 17:00:26 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_MZ.pdf
+10/05/2018 17:00:26 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_KZ.pdf
+10/05/2018 17:00:26 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+10/05/2018 17:00:27 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+10/05/2018 17:00:27 : Creating Index
+10/05/2018 17:00:35 :   Total PDF files in all directories : 30
+10/05/2018 17:00:35 :   Total PDF attachments : 0
+10/05/2018 17:00:35 :   Total new files : 30
+10/05/2018 17:00:35 :   Total pages indexed : 5626
+10/05/2018 17:00:35 :   Total number of files skipped : 0
+10/05/2018 17:00:35 :   Total deleted files : 0
+10/05/2018 17:00:35 : Index build successful.
+
+11/05/2018 11:11:34 : Starting rebuild of Index : R:\Data\documentation\Indexes\Mother_Documentation_Index.pdx
+11/05/2018 11:11:34 : Deleting files from current index
+11/05/2018 11:11:34 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index.idx
+11/05/2018 11:11:34 : Deleting : R:\Data\documentation\Indexes\Mother_Documentation_Index\index1.idx
+11/05/2018 11:11:35 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+11/05/2018 11:11:37 : Searching : R:\Data\documentation\built_pdf\Clinic\Adult\
+11/05/2018 11:11:37 : Could not locate folder : R:\Data\documentation\built_pdf\Clinic\Adult\
+11/05/2018 11:11:37 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Mother\
+11/05/2018 11:11:37 : Searching : R:\Data\documentation\built_pdf\Other\Obstetric\
+11/05/2018 11:11:38 : Searching : R:\Data\documentation\built_pdf\Other\Sample Definition\
+11/05/2018 11:11:38 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+11/05/2018 11:11:38 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+11/05/2018 11:11:38 : Indexing 30 files
+11/05/2018 11:11:38 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+11/05/2018 11:11:40 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+11/05/2018 11:11:43 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+11/05/2018 11:11:46 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+11/05/2018 11:11:54 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+11/05/2018 11:11:57 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+11/05/2018 11:12:00 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1118_T.pdf
+11/05/2018 11:12:08 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+11/05/2018 11:12:10 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+11/05/2018 11:12:12 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+11/05/2018 11:12:15 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+11/05/2018 11:12:18 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+11/05/2018 11:12:29 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+11/05/2018 11:12:31 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+11/05/2018 11:12:33 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+11/05/2018 11:12:37 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+11/05/2018 11:12:40 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+11/05/2018 11:12:40 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+11/05/2018 11:12:42 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+11/05/2018 11:12:44 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1119_U.pdf
+11/05/2018 11:12:45 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+11/05/2018 11:12:49 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5702_mSamples.pdf
+11/05/2018 11:12:49 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5705_mMetabolomics.pdf
+11/05/2018 11:12:49 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4200_OA.pdf
+11/05/2018 11:12:50 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4202_OC.pdf
+11/05/2018 11:12:53 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4201_OB.pdf
+11/05/2018 11:12:59 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_MZ.pdf
+11/05/2018 11:12:59 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_KZ.pdf
+11/05/2018 11:12:59 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+11/05/2018 11:12:59 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+11/05/2018 11:13:00 : Creating Index
+11/05/2018 11:13:07 :   Total PDF files in all directories : 30
+11/05/2018 11:13:07 :   Total PDF attachments : 0
+11/05/2018 11:13:07 :   Total new files : 30
+11/05/2018 11:13:07 :   Total pages indexed : 5656
+11/05/2018 11:13:07 :   Total number of files skipped : 0
+11/05/2018 11:13:07 :   Total deleted files : 0
+11/05/2018 11:13:07 : Index build successful.
+
+09/11/2018 14:43:56 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index.pdx
+09/11/2018 14:43:56 : Deleting files from current index
+09/11/2018 14:43:56 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index\index.idx
+09/11/2018 14:43:56 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index\index1.idx
+09/11/2018 14:43:56 : Searching : R:\Data\documentation\built_pdf\built_pdf\Quest\Mother\
+09/11/2018 14:43:56 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Quest\Mother\
+09/11/2018 14:43:56 : Searching : R:\Data\documentation\built_pdf\built_pdf\Clinic\Adult\
+09/11/2018 14:43:56 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Clinic\Adult\
+09/11/2018 14:43:56 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Samples\Mother\
+09/11/2018 14:43:56 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Samples\Mother\
+09/11/2018 14:43:56 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Obstetric\
+09/11/2018 14:43:56 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Obstetric\
+09/11/2018 14:43:56 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Sample Definition\
+09/11/2018 14:43:56 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Sample Definition\
+09/11/2018 14:43:56 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Social_Class\
+09/11/2018 14:43:56 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Social_Class\
+09/11/2018 14:43:56 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Address\
+09/11/2018 14:43:56 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Address\
+09/11/2018 14:43:56 : No new or changed files found
+09/11/2018 14:43:56 :   Total PDF files in all directories : 0
+09/11/2018 14:43:56 :   Total PDF attachments : 0
+09/11/2018 14:43:56 :   Total new files : 0
+09/11/2018 14:43:56 :   Total pages indexed : 0
+09/11/2018 14:43:56 :   Total number of files skipped : 0
+09/11/2018 14:43:56 :   Total deleted files : 0
+09/11/2018 14:43:56 : Index build successful.
+
+12/11/2018 08:58:55 : Starting build of Index : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index.pdx
+12/11/2018 08:58:55 : Searching : R:\Data\documentation\built_pdf\built_pdf\Quest\Mother\
+12/11/2018 08:58:55 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Quest\Mother\
+12/11/2018 08:58:55 : Searching : R:\Data\documentation\built_pdf\built_pdf\Clinic\Adult\
+12/11/2018 08:58:55 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Clinic\Adult\
+12/11/2018 08:58:55 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Samples\Mother\
+12/11/2018 08:58:55 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Samples\Mother\
+12/11/2018 08:58:55 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Obstetric\
+12/11/2018 08:58:55 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Obstetric\
+12/11/2018 08:58:55 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Sample Definition\
+12/11/2018 08:58:55 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Sample Definition\
+12/11/2018 08:58:55 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Social_Class\
+12/11/2018 08:58:55 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Social_Class\
+12/11/2018 08:58:55 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Address\
+12/11/2018 08:58:55 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Address\
+12/11/2018 08:58:55 : No new or changed files found
+12/11/2018 08:58:55 :   Total PDF files in all directories : 0
+12/11/2018 08:58:55 :   Total PDF attachments : 0
+12/11/2018 08:58:55 :   Total new files : 0
+12/11/2018 08:58:55 :   Total pages indexed : 0
+12/11/2018 08:58:55 :   Total number of files skipped : 0
+12/11/2018 08:58:55 :   Total deleted files : 0
+12/11/2018 08:58:55 : Index build successful.
+
+12/11/2018 08:59:03 : Starting build of Index : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index.pdx
+12/11/2018 08:59:03 : Searching : R:\Data\documentation\built_pdf\built_pdf\Quest\Mother\
+12/11/2018 08:59:03 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Quest\Mother\
+12/11/2018 08:59:03 : Searching : R:\Data\documentation\built_pdf\built_pdf\Clinic\Adult\
+12/11/2018 08:59:03 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Clinic\Adult\
+12/11/2018 08:59:03 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Samples\Mother\
+12/11/2018 08:59:03 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Samples\Mother\
+12/11/2018 08:59:03 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Obstetric\
+12/11/2018 08:59:03 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Obstetric\
+12/11/2018 08:59:03 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Sample Definition\
+12/11/2018 08:59:03 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Sample Definition\
+12/11/2018 08:59:03 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Social_Class\
+12/11/2018 08:59:03 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Social_Class\
+12/11/2018 08:59:03 : Searching : R:\Data\documentation\built_pdf\built_pdf\Other\Address\
+12/11/2018 08:59:03 : Could not locate folder : R:\Data\documentation\built_pdf\built_pdf\Other\Address\
+12/11/2018 08:59:03 : No new or changed files found
+12/11/2018 08:59:03 :   Total PDF files in all directories : 0
+12/11/2018 08:59:03 :   Total PDF attachments : 0
+12/11/2018 08:59:03 :   Total new files : 0
+12/11/2018 08:59:03 :   Total pages indexed : 0
+12/11/2018 08:59:03 :   Total number of files skipped : 0
+12/11/2018 08:59:03 :   Total deleted files : 0
+12/11/2018 08:59:03 : Index build successful.
+
+12/11/2018 09:50:03 : Starting build of Index : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index.pdx
+12/11/2018 09:50:03 : Searching : R:\Data\documentation\built_pdf\Clinic\Mother\
+12/11/2018 09:50:03 : Searching : R:\Data\documentation\built_pdf\Other\Obstetric\
+12/11/2018 09:50:03 : Searching : R:\Data\documentation\built_pdf\Other\Sample Definition\
+12/11/2018 09:50:03 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+12/11/2018 09:50:03 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Mother\
+12/11/2018 09:50:03 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+12/11/2018 09:50:03 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+12/11/2018 09:50:05 : Indexing 34 files
+12/11/2018 09:50:05 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2201_FOM1.pdf
+12/11/2018 09:50:07 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2203_FOM3.pdf
+12/11/2018 09:50:10 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2204_FOM4.pdf
+12/11/2018 09:50:13 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2202_FOM2.pdf
+12/11/2018 09:50:16 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4200_OA.pdf
+12/11/2018 09:50:16 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4202_OC.pdf
+12/11/2018 09:50:20 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4201_OB.pdf
+12/11/2018 09:50:25 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_MZ.pdf
+12/11/2018 09:50:25 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_KZ.pdf
+12/11/2018 09:50:25 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+12/11/2018 09:50:26 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5702_mSamples.pdf
+12/11/2018 09:50:26 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5705_mMetabolomics.pdf
+12/11/2018 09:50:27 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+12/11/2018 09:50:27 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+12/11/2018 09:50:29 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+12/11/2018 09:50:32 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+12/11/2018 09:50:35 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+12/11/2018 09:50:44 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+12/11/2018 09:50:48 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+12/11/2018 09:50:53 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1118_T.pdf
+12/11/2018 09:51:01 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+12/11/2018 09:51:04 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+12/11/2018 09:51:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+12/11/2018 09:51:09 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+12/11/2018 09:51:14 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+12/11/2018 09:51:25 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+12/11/2018 09:51:31 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+12/11/2018 09:51:34 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+12/11/2018 09:51:41 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+12/11/2018 09:51:48 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+12/11/2018 09:51:49 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+12/11/2018 09:51:52 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+12/11/2018 09:51:54 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1119_U.pdf
+12/11/2018 09:51:55 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+12/11/2018 09:52:01 : Creating Index
+12/11/2018 09:52:08 :   Total PDF files in all directories : 34
+12/11/2018 09:52:08 :   Total PDF attachments : 0
+12/11/2018 09:52:08 :   Total new files : 34
+12/11/2018 09:52:08 :   Total pages indexed : 6054
+12/11/2018 09:52:08 :   Total number of files skipped : 0
+12/11/2018 09:52:08 :   Total deleted files : 0
+12/11/2018 09:52:08 : Index build successful.
+
+06/02/2019 10:10:54 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index.pdx
+06/02/2019 10:10:54 : Deleting files from current index
+06/02/2019 10:10:54 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index\index.idx
+06/02/2019 10:10:54 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index\index1.idx
+06/02/2019 10:10:54 : Searching : R:\Data\documentation\built_pdf\Clinic\Mother\
+06/02/2019 10:10:54 : Searching : R:\Data\documentation\built_pdf\Other\Obstetric\
+06/02/2019 10:10:55 : Searching : R:\Data\documentation\built_pdf\Other\Sample Definition\
+06/02/2019 10:10:55 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+06/02/2019 10:10:55 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Mother\
+06/02/2019 10:10:55 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+06/02/2019 10:10:55 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+06/02/2019 10:10:58 : Indexing 34 files
+06/02/2019 10:10:58 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2201_FOM1.pdf
+06/02/2019 10:11:00 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2203_FOM3.pdf
+06/02/2019 10:11:03 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2204_FOM4.pdf
+06/02/2019 10:11:06 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2202_FOM2.pdf
+06/02/2019 10:11:09 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4200_OA.pdf
+06/02/2019 10:11:09 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4202_OC.pdf
+06/02/2019 10:11:12 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4201_OB.pdf
+06/02/2019 10:11:17 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_MZ.pdf
+06/02/2019 10:11:17 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_KZ.pdf
+06/02/2019 10:11:17 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+06/02/2019 10:11:18 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5702_mSamples.pdf
+06/02/2019 10:11:18 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5705_mMetabolomics.pdf
+06/02/2019 10:11:18 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+06/02/2019 10:11:18 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+06/02/2019 10:11:21 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+06/02/2019 10:11:23 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+06/02/2019 10:11:27 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+06/02/2019 10:11:35 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+06/02/2019 10:11:39 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+06/02/2019 10:11:43 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1118_T.pdf
+06/02/2019 10:11:52 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+06/02/2019 10:11:54 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+06/02/2019 10:11:56 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+06/02/2019 10:11:59 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+06/02/2019 10:12:04 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+06/02/2019 10:12:16 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+06/02/2019 10:12:21 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+06/02/2019 10:12:24 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+06/02/2019 10:12:30 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+06/02/2019 10:12:38 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+06/02/2019 10:12:38 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+06/02/2019 10:12:41 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+06/02/2019 10:12:43 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1119_U.pdf
+06/02/2019 10:12:44 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+06/02/2019 10:12:50 : Creating Index
+06/02/2019 10:12:58 :   Total PDF files in all directories : 34
+06/02/2019 10:12:58 :   Total PDF attachments : 0
+06/02/2019 10:12:58 :   Total new files : 34
+06/02/2019 10:12:58 :   Total pages indexed : 6053
+06/02/2019 10:12:58 :   Total number of files skipped : 0
+06/02/2019 10:12:58 :   Total deleted files : 0
+06/02/2019 10:12:58 : Index build successful.
+
+18/03/2019 10:11:21 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index.pdx
+18/03/2019 10:11:21 : Deleting files from current index
+18/03/2019 10:11:21 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index\index.idx
+18/03/2019 10:11:21 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index\index1.idx
+18/03/2019 10:11:21 : Searching : R:\Data\documentation\built_pdf\Clinic\Mother\
+18/03/2019 10:11:22 : Searching : R:\Data\documentation\built_pdf\Other\Obstetric\
+18/03/2019 10:11:22 : Searching : R:\Data\documentation\built_pdf\Other\Sample Definition\
+18/03/2019 10:11:22 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+18/03/2019 10:11:22 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Mother\
+18/03/2019 10:11:22 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+18/03/2019 10:11:22 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+18/03/2019 10:11:26 : Indexing 34 files
+18/03/2019 10:11:26 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2201_FOM1.pdf
+18/03/2019 10:11:28 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2203_FOM3.pdf
+18/03/2019 10:11:30 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2204_FOM4.pdf
+18/03/2019 10:11:33 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2202_FOM2.pdf
+18/03/2019 10:11:36 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4200_OA.pdf
+18/03/2019 10:11:37 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4202_OC.pdf
+18/03/2019 10:11:40 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4201_OB.pdf
+18/03/2019 10:11:45 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_MZ.pdf
+18/03/2019 10:11:46 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_KZ.pdf
+18/03/2019 10:11:46 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+18/03/2019 10:11:46 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5702_mSamples.pdf
+18/03/2019 10:11:47 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5705_mMetabolomics.pdf
+18/03/2019 10:11:47 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v4.pdf
+18/03/2019 10:11:47 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+18/03/2019 10:11:50 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+18/03/2019 10:11:52 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+18/03/2019 10:11:56 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+18/03/2019 10:12:04 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+18/03/2019 10:12:08 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+18/03/2019 10:12:12 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1118_T.pdf
+18/03/2019 10:12:20 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+18/03/2019 10:12:23 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+18/03/2019 10:12:25 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+18/03/2019 10:12:28 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+18/03/2019 10:12:33 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+18/03/2019 10:12:45 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+18/03/2019 10:12:50 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+18/03/2019 10:12:53 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+18/03/2019 10:13:00 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+18/03/2019 10:13:07 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+18/03/2019 10:13:08 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+18/03/2019 10:13:11 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+18/03/2019 10:13:12 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1119_U.pdf
+18/03/2019 10:13:13 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+18/03/2019 10:13:20 : Creating Index
+18/03/2019 10:13:27 :   Total PDF files in all directories : 34
+18/03/2019 10:13:27 :   Total PDF attachments : 0
+18/03/2019 10:13:27 :   Total new files : 34
+18/03/2019 10:13:27 :   Total pages indexed : 6061
+18/03/2019 10:13:27 :   Total number of files skipped : 0
+18/03/2019 10:13:27 :   Total deleted files : 0
+18/03/2019 10:13:27 : Index build successful.
+
+13/06/2019 10:58:30 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index.pdx
+13/06/2019 10:58:30 : Deleting files from current index
+13/06/2019 10:58:30 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index\index.idx
+13/06/2019 10:58:30 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index\index1.idx
+13/06/2019 10:58:30 : Searching : R:\Data\documentation\built_pdf\Clinic\Mother\
+13/06/2019 10:58:31 : Searching : R:\Data\documentation\built_pdf\Other\Obstetric\
+13/06/2019 10:58:31 : Searching : R:\Data\documentation\built_pdf\Other\Sample Definition\
+13/06/2019 10:58:31 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+13/06/2019 10:58:32 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Mother\
+13/06/2019 10:58:32 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+13/06/2019 10:58:32 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+13/06/2019 10:58:36 : Indexing 34 files
+13/06/2019 10:58:36 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2201_FOM1.pdf
+13/06/2019 10:58:38 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2202_FOM2.pdf
+13/06/2019 10:58:41 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2203_FOM3.pdf
+13/06/2019 10:58:43 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2204_FOM4.pdf
+13/06/2019 10:58:47 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4200_OA.pdf
+13/06/2019 10:58:47 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4201_OB.pdf
+13/06/2019 10:58:55 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4202_OC.pdf
+13/06/2019 10:59:00 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_KZ.pdf
+13/06/2019 10:59:00 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_MZ.pdf
+13/06/2019 10:59:00 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+13/06/2019 10:59:01 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5702_mSamples.pdf
+13/06/2019 10:59:01 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5705_mMetabolomics.pdf
+13/06/2019 10:59:02 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v5.pdf
+13/06/2019 10:59:02 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+13/06/2019 10:59:07 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+13/06/2019 10:59:14 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+13/06/2019 10:59:21 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+13/06/2019 10:59:27 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+13/06/2019 10:59:32 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+13/06/2019 10:59:34 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+13/06/2019 10:59:40 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+13/06/2019 10:59:53 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+13/06/2019 11:00:02 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+13/06/2019 11:00:05 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+13/06/2019 11:00:08 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+13/06/2019 11:00:14 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+13/06/2019 11:00:21 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+13/06/2019 11:00:24 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+13/06/2019 11:00:27 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+13/06/2019 11:00:31 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+13/06/2019 11:00:35 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1118_T.pdf
+13/06/2019 11:00:43 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1119_U.pdf
+13/06/2019 11:00:44 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+13/06/2019 11:00:46 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+13/06/2019 11:00:47 : Creating Index
+13/06/2019 11:00:56 :   Total PDF files in all directories : 34
+13/06/2019 11:00:56 :   Total PDF attachments : 0
+13/06/2019 11:00:56 :   Total new files : 34
+13/06/2019 11:00:56 :   Total pages indexed : 6051
+13/06/2019 11:00:56 :   Total number of files skipped : 0
+13/06/2019 11:00:56 :   Total deleted files : 0
+13/06/2019 11:00:56 : Index build successful.
+
+10/01/2020 12:34:10 : Starting rebuild of Index : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index.pdx
+10/01/2020 12:34:10 : Deleting files from current index
+10/01/2020 12:34:10 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index\index.idx
+10/01/2020 12:34:10 : Deleting : R:\Data\documentation\built_pdf\Indexes\Mother_Documentation_Index\index1.idx
+10/01/2020 12:34:10 : Searching : R:\Data\documentation\built_pdf\Clinic\Mother\
+10/01/2020 12:34:10 : Searching : R:\Data\documentation\built_pdf\Other\Obstetric\
+10/01/2020 12:34:11 : Searching : R:\Data\documentation\built_pdf\Other\Sample Definition\
+10/01/2020 12:34:11 : Searching : R:\Data\documentation\built_pdf\Other\Social_Class\
+10/01/2020 12:34:11 : Searching : R:\Data\documentation\built_pdf\Other\Samples\Mother\
+10/01/2020 12:34:11 : Searching : R:\Data\documentation\built_pdf\Other\Address\
+10/01/2020 12:34:11 : Searching : R:\Data\documentation\built_pdf\Quest\Mother\
+10/01/2020 12:34:16 : Indexing 35 files
+10/01/2020 12:34:16 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2201_FOM1.pdf
+10/01/2020 12:34:18 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2202_FOM2.pdf
+10/01/2020 12:34:21 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2203_FOM3.pdf
+10/01/2020 12:34:24 : Extracting : R:\Data\documentation\built_pdf\Clinic\Mother\D2204_FOM4.pdf
+10/01/2020 12:34:28 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4200_OA.pdf
+10/01/2020 12:34:28 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4201_OB.pdf
+10/01/2020 12:34:36 : Extracting : R:\Data\documentation\built_pdf\Other\Obstetric\D4202_OC.pdf
+10/01/2020 12:34:41 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_KZ.pdf
+10/01/2020 12:34:42 : Extracting : R:\Data\documentation\built_pdf\Other\Sample Definition\D4101_MZ.pdf
+10/01/2020 12:34:42 : Extracting : R:\Data\documentation\built_pdf\Other\Social_Class\ALSPAC social class documentation_r1a.pdf
+10/01/2020 12:34:42 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5702_mSamples.pdf
+10/01/2020 12:34:43 : Extracting : R:\Data\documentation\built_pdf\Other\Samples\Mother\D5705_mMetabolomics.pdf
+10/01/2020 12:34:43 : Extracting : R:\Data\documentation\built_pdf\Other\Address\ALSPAC_address_data_documentation_v5.pdf
+10/01/2020 12:34:43 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1101_A.pdf
+10/01/2020 12:34:48 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1102_D.pdf
+10/01/2020 12:34:56 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1103_B.pdf
+10/01/2020 12:35:04 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1104_C.pdf
+10/01/2020 12:35:10 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1105_E.pdf
+10/01/2020 12:35:15 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1106_F.pdf
+10/01/2020 12:35:18 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1107_G.pdf
+10/01/2020 12:35:24 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1108_H.pdf
+10/01/2020 12:35:36 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1109_J.pdf
+10/01/2020 12:35:46 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1110_K.pdf
+10/01/2020 12:35:49 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1111_L.pdf
+10/01/2020 12:35:52 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1112_M.pdf
+10/01/2020 12:35:59 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1113_N.pdf
+10/01/2020 12:36:06 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1114_P.pdf
+10/01/2020 12:36:09 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1115_Q.pdf
+10/01/2020 12:36:13 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1116_R.pdf
+10/01/2020 12:36:17 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1117_S.pdf
+10/01/2020 12:36:21 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1118_T.pdf
+10/01/2020 12:36:30 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1119_U.pdf
+10/01/2020 12:36:31 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1150_XA.pdf
+10/01/2020 12:36:34 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1151_XB.pdf
+10/01/2020 12:36:34 : Extracting : R:\Data\documentation\built_pdf\Quest\Mother\D1167_V.pdf
+10/01/2020 12:36:40 : Creating Index
+10/01/2020 12:36:51 :   Total PDF files in all directories : 35
+10/01/2020 12:36:51 :   Total PDF attachments : 0
+10/01/2020 12:36:51 :   Total new files : 35
+10/01/2020 12:36:51 :   Total pages indexed : 6329
+10/01/2020 12:36:51 :   Total number of files skipped : 0
+10/01/2020 12:36:51 :   Total deleted files : 0
+10/01/2020 12:36:51 : Index build successful.
