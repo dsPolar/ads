@@ -1,4 +1,4 @@
-I've intended, at least at the beginning, that this repo doesn't have the actual dataset on it just as a potential privacy thingymajig.
+I've intended, at least at the beginning, that this repo doesn't have the actual dataset on it (gonna have to change that soon) just as a potential privacy thingymajig.
 Instead add code that generates your new dataset from the original. My code assumes that the original csv sits in /screenTime/ but just make it clear in the code
 what it expects and it should be fine.
 
