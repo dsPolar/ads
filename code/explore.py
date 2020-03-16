@@ -25,8 +25,8 @@ def correl(frame, point):
             scatterplot(frame[point], data, str(correlation), point, column, "../graphs/" + point + "/" + column + ".png")
 
 
-def filter_dep():
-    frame = pd.read_csv("../screenTime/maps-synthetic-data-v1.1.csv", index_col=0)
+def filter_dep(path):
+    frame = pd.read_csv(path, index_col=0)
 
     frame = frame[pd.notnull(frame['has_dep_diag'])]
     frame['has_dep_diag'] = frame['has_dep_diag'].map({" No ICD-10 diagnosis of depression": 0, "Yes ICD-10 diagnosis of depression":1})
